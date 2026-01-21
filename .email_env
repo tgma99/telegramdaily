@@ -1,0 +1,10 @@
+# Email credentials
+export SMTP_SERVER="smtp.gmail.com"
+export SMTP_PORT="587"
+export EMAIL_USER="tom.adshead@gmail.com"
+export EMAIL_PASS="iedbfbcniygttkzn"
+export EMAIL_TO="tga@macro-advisory.com, ara@macro-advisory.com, oop@macro-advisory.com"
+
+# Telegram credentials
+export TG_API_ID="26521853"
+export TG_API_HASH="0b85f3ac1a62eb3ee03a62572295dc95"

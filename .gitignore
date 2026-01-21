@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.env
+.venv
+finance-env/
+
+# Secrets & credentials
+config/secrets.json
+*.session
+*.session-journal
+
+# Data outputs
+data/
+logs/
+out_email_preview.html
+
+# OS
+.DS_Store
+
+# LM Studio
+*.gguf
+models/

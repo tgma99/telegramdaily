@@ -1,0 +1,4429 @@
+===== 2025-10-23 12:05:21  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+===== 2025-10-23 13:02:16  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+✅ @arkanewsagency: processed 17197
+✅ @arkanewsagency: processed 17196
+✅ @arkanewsagency: processed 17189
+✅ @arkanewsagency: processed 17188
+✅ @arkanewsagency: processed 17186
+🔎 Fetching @dashimbayev ...
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19009
+✅ @mislinemisli: processed 19008
+✅ @mislinemisli: processed 19007
+✅ @mislinemisli: processed 19006
+✅ @mislinemisli: processed 19005
+✅ @mislinemisli: processed 19004
+✅ @mislinemisli: processed 19003
+✅ @mislinemisli: processed 19002
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18087
+✅ @echoonline_news: processed 18081
+✅ @echoonline_news: processed 18079
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 109579
+✅ @insiderUKR: processed 109578
+✅ @insiderUKR: processed 109527
+✅ @insiderUKR: processed 109515
+✅ @insiderUKR: processed 109514
+✅ @insiderUKR: processed 109498
+✅ @insiderUKR: processed 109492
+✅ @insiderUKR: processed 109484
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65196
+✅ @russicaRU: processed 65195
+✅ @russicaRU: processed 65194
+✅ @russicaRU: processed 65192
+✅ @russicaRU: processed 65191
+✅ @russicaRU: processed 65190
+✅ @russicaRU: processed 65189
+✅ @russicaRU: processed 65188
+✅ @russicaRU: processed 65187
+✅ @russicaRU: processed 65184
+✅ @russicaRU: processed 65181
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 85868
+✅ @bagramyan26: processed 85854
+✅ @bagramyan26: processed 85837
+✅ @bagramyan26: processed 85824
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16204
+✅ @daryo_global: processed 16203
+✅ @daryo_global: processed 16202
+✅ @daryo_global: processed 16201
+✅ @daryo_global: processed 16200
+✅ @daryo_global: processed 16199
+✅ @daryo_global: processed 16197
+✅ @daryo_global: processed 16196
+🔎 Fetching @kompromat_za ...
+✅ @kompromat_za: processed 5254
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13237
+✅ @preemnik: processed 13235
+✅ @preemnik: processed 13233
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 104707
+✅ @Gubery: processed 104694
+✅ @Gubery: processed 104692
+✅ @Gubery: processed 104672
+✅ @Gubery: processed 104662
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37361
+✅ @kursivm: processed 37354
+✅ @kursivm: processed 37349
+✅ @kursivm: processed 37348
+🔎 Fetching @gaziz1984 ...
+✅ @gaziz1984: processed 4954
+🔎 Fetching @armtoday ...
+✅ @armtoday: processed 95959
+✅ @armtoday: processed 95928
+🔎 Fetching @NGnewsgeorgia ...
+✅ @NGnewsgeorgia: processed 26046
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 345307
+✅ @tass_agency: processed 345302
+✅ @tass_agency: processed 345285
+✅ @tass_agency: processed 345282
+✅ @tass_agency: processed 345280
+✅ @tass_agency: processed 345276
+✅ @tass_agency: processed 345269
+✅ @tass_agency: processed 345264
+✅ @tass_agency: processed 345254
+✅ @tass_agency: processed 345250
+✅ @tass_agency: processed 345249
+✅ @tass_agency: processed 345223
+✅ @tass_agency: processed 345222
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50151
+✅ @bankrollo: processed 50137
+✅ @bankrollo: processed 50136
+✅ @bankrollo: processed 50128
+✅ @bankrollo: processed 50126
+✅ @bankrollo: processed 50123
+✅ @bankrollo: processed 50119
+✅ @bankrollo: processed 50117
+✅ @bankrollo: processed 50112
+✅ @bankrollo: processed 50105
+✅ @bankrollo: processed 50096
+✅ @bankrollo: processed 50080
+🔎 Fetching @ekho_kavkaza ...
+✅ @ekho_kavkaza: processed 22236
+✅ @ekho_kavkaza: processed 22234
+✅ @ekho_kavkaza: processed 22217
+🔎 Fetching @istories_media ...
+✅ @istories_media: processed 10632
+✅ @istories_media: processed 10624
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13237
+✅ @preemnik: processed 13235
+✅ @preemnik: processed 13233
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 217993
+✅ @bbbreaking: processed 217988
+✅ @bbbreaking: processed 217981
+✅ @bbbreaking: processed 217974
+✅ @bbbreaking: processed 217972
+✅ @bbbreaking: processed 217967
+✅ @bbbreaking: processed 217963
+✅ @bbbreaking: processed 217959
+✅ @bbbreaking: processed 217952
+✅ @bbbreaking: processed 217946
+✅ @bbbreaking: processed 217945
+✅ @bbbreaking: processed 217941
+✅ @bbbreaking: processed 217928
+✅ @bbbreaking: processed 217927
+✅ @bbbreaking: processed 217926
+✅ @bbbreaking: processed 217921
+✅ @bbbreaking: processed 217919
+✅ @bbbreaking: processed 217918
+✅ @bbbreaking: processed 217916
+✅ @bbbreaking: processed 217906
+🔎 Fetching @NGnewsgeorgia ...
+⚠️ LLM error: 
+✅ @NGnewsgeorgia: processed 26046
+💾 Saved 118 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+✅ PDF saved: 251023MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251023MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-10-23 14:29:18  Finished run_daily_news.sh =====
+===== 2025-10-23 15:04:28  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+✅ @arkanewsagency: processed 17204
+✅ @arkanewsagency: processed 17197
+✅ @arkanewsagency: processed 17196
+🔎 Fetching @dashimbayev ...
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19009
+✅ @mislinemisli: processed 19008
+✅ @mislinemisli: processed 19007
+✅ @mislinemisli: processed 19006
+✅ @mislinemisli: processed 19005
+✅ @mislinemisli: processed 19004
+✅ @mislinemisli: processed 19003
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18087
+✅ @echoonline_news: processed 18081
+✅ @echoonline_news: processed 18079
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 109579
+✅ @insiderUKR: processed 109578
+✅ @insiderUKR: processed 109527
+✅ @insiderUKR: processed 109515
+✅ @insiderUKR: processed 109514
+✅ @insiderUKR: processed 109498
+✅ @insiderUKR: processed 109492
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65196
+✅ @russicaRU: processed 65195
+✅ @russicaRU: processed 65194
+✅ @russicaRU: processed 65192
+✅ @russicaRU: processed 65190
+✅ @russicaRU: processed 65189
+✅ @russicaRU: processed 65188
+✅ @russicaRU: processed 65187
+✅ @russicaRU: processed 65186
+✅ @russicaRU: processed 65184
+✅ @russicaRU: processed 65181
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 85868
+✅ @bagramyan26: processed 85854
+✅ @bagramyan26: processed 85850
+✅ @bagramyan26: processed 85837
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16204
+✅ @daryo_global: processed 16203
+✅ @daryo_global: processed 16202
+✅ @daryo_global: processed 16201
+✅ @daryo_global: processed 16200
+✅ @daryo_global: processed 16199
+✅ @daryo_global: processed 16197
+🔎 Fetching @kompromat_za ...
+✅ @kompromat_za: processed 5254
+✅ @kompromat_za: processed 5248
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13235
+✅ @preemnik: processed 13233
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 104709
+✅ @Gubery: processed 104707
+✅ @Gubery: processed 104694
+✅ @Gubery: processed 104672
+✅ @Gubery: processed 104662
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37365
+✅ @kursivm: processed 37361
+✅ @kursivm: processed 37354
+✅ @kursivm: processed 37349
+✅ @kursivm: processed 37348
+🔎 Fetching @gaziz1984 ...
+✅ @gaziz1984: processed 4954
+🔎 Fetching @armtoday ...
+✅ @armtoday: processed 95963
+✅ @armtoday: processed 95959
+🔎 Fetching @NGnewsgeorgia ...
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 345325
+✅ @tass_agency: processed 345307
+✅ @tass_agency: processed 345302
+✅ @tass_agency: processed 345285
+✅ @tass_agency: processed 345282
+✅ @tass_agency: processed 345280
+✅ @tass_agency: processed 345276
+✅ @tass_agency: processed 345272
+✅ @tass_agency: processed 345269
+✅ @tass_agency: processed 345264
+✅ @tass_agency: processed 345250
+✅ @tass_agency: processed 345249
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50166
+✅ @bankrollo: processed 50165
+✅ @bankrollo: processed 50164
+✅ @bankrollo: processed 50151
+✅ @bankrollo: processed 50137
+✅ @bankrollo: processed 50136
+✅ @bankrollo: processed 50128
+✅ @bankrollo: processed 50126
+✅ @bankrollo: processed 50123
+✅ @bankrollo: processed 50117
+✅ @bankrollo: processed 50112
+✅ @bankrollo: processed 50105
+✅ @bankrollo: processed 50096
+🔎 Fetching @ekho_kavkaza ...
+✅ @ekho_kavkaza: processed 22236
+✅ @ekho_kavkaza: processed 22234
+✅ @ekho_kavkaza: processed 22217
+🔎 Fetching @istories_media ...
+✅ @istories_media: processed 10634
+✅ @istories_media: processed 10632
+✅ @istories_media: processed 10624
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13237
+✅ @preemnik: processed 13235
+✅ @preemnik: processed 13233
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 217996
+✅ @bbbreaking: processed 217993
+✅ @bbbreaking: processed 217989
+✅ @bbbreaking: processed 217988
+✅ @bbbreaking: processed 217981
+✅ @bbbreaking: processed 217974
+✅ @bbbreaking: processed 217972
+✅ @bbbreaking: processed 217967
+✅ @bbbreaking: processed 217963
+✅ @bbbreaking: processed 217959
+✅ @bbbreaking: processed 217952
+✅ @bbbreaking: processed 217946
+✅ @bbbreaking: processed 217945
+✅ @bbbreaking: processed 217941
+✅ @bbbreaking: processed 217930
+✅ @bbbreaking: processed 217928
+✅ @bbbreaking: processed 217927
+✅ @bbbreaking: processed 217926
+✅ @bbbreaking: processed 217921
+✅ @bbbreaking: processed 217919
+✅ @bbbreaking: processed 217918
+✅ @bbbreaking: processed 217916
+🔎 Fetching @NGnewsgeorgia ...
+💾 Saved 115 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+✅ PDF saved: 251023MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251023MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-10-23 15:51:27  Finished run_daily_news.sh =====
+===== 2025-10-23 15:53:35  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+✅ @arkanewsagency: processed 17204
+✅ @arkanewsagency: processed 17197
+✅ @arkanewsagency: processed 17196
+🔎 Fetching @dashimbayev ...
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19009
+✅ @mislinemisli: processed 19008
+✅ @mislinemisli: processed 19007
+✅ @mislinemisli: processed 19006
+✅ @mislinemisli: processed 19005
+✅ @mislinemisli: processed 19004
+✅ @mislinemisli: processed 19003
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18130
+✅ @echoonline_news: processed 18087
+✅ @echoonline_news: processed 18081
+✅ @echoonline_news: processed 18079
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 109594
+✅ @insiderUKR: processed 109587
+✅ @insiderUKR: processed 109579
+✅ @insiderUKR: processed 109578
+✅ @insiderUKR: processed 109515
+✅ @insiderUKR: processed 109514
+✅ @insiderUKR: processed 109498
+✅ @insiderUKR: processed 109492
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65196
+✅ @russicaRU: processed 65195
+✅ @russicaRU: processed 65194
+✅ @russicaRU: processed 65192
+✅ @russicaRU: processed 65190
+✅ @russicaRU: processed 65189
+⚠️ LLM error: 
+✅ @russicaRU: processed 65187
+✅ @russicaRU: processed 65186
+✅ @russicaRU: processed 65184
+✅ @russicaRU: processed 65183
+✅ @russicaRU: processed 65181
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 85868
+✅ @bagramyan26: processed 85850
+✅ @bagramyan26: processed 85837
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16204
+✅ @daryo_global: processed 16203
+✅ @daryo_global: processed 16202
+✅ @daryo_global: processed 16201
+✅ @daryo_global: processed 16200
+✅ @daryo_global: processed 16199
+✅ @daryo_global: processed 16197
+🔎 Fetching @kompromat_za ...
+✅ @kompromat_za: processed 5254
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13237
+✅ @preemnik: processed 13235
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 104709
+✅ @Gubery: processed 104707
+✅ @Gubery: processed 104694
+✅ @Gubery: processed 104692
+✅ @Gubery: processed 104672
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37365
+✅ @kursivm: processed 37361
+✅ @kursivm: processed 37354
+✅ @kursivm: processed 37349
+✅ @kursivm: processed 37348
+🔎 Fetching @gaziz1984 ...
+✅ @gaziz1984: processed 4954
+🔎 Fetching @armtoday ...
+✅ @armtoday: processed 95963
+🔎 Fetching @NGnewsgeorgia ...
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 345325
+✅ @tass_agency: processed 345307
+✅ @tass_agency: processed 345302
+✅ @tass_agency: processed 345285
+✅ @tass_agency: processed 345282
+✅ @tass_agency: processed 345280
+✅ @tass_agency: processed 345276
+✅ @tass_agency: processed 345269
+✅ @tass_agency: processed 345264
+✅ @tass_agency: processed 345250
+✅ @tass_agency: processed 345249
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50171
+✅ @bankrollo: processed 50166
+✅ @bankrollo: processed 50165
+✅ @bankrollo: processed 50151
+✅ @bankrollo: processed 50137
+✅ @bankrollo: processed 50136
+✅ @bankrollo: processed 50128
+✅ @bankrollo: processed 50126
+✅ @bankrollo: processed 50123
+✅ @bankrollo: processed 50117
+✅ @bankrollo: processed 50112
+✅ @bankrollo: processed 50105
+✅ @bankrollo: processed 50096
+🔎 Fetching @ekho_kavkaza ...
+✅ @ekho_kavkaza: processed 22236
+✅ @ekho_kavkaza: processed 22234
+✅ @ekho_kavkaza: processed 22217
+🔎 Fetching @istories_media ...
+✅ @istories_media: processed 10638
+✅ @istories_media: processed 10634
+✅ @istories_media: processed 10632
+✅ @istories_media: processed 10624
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13237
+✅ @preemnik: processed 13235
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218024
+✅ @bbbreaking: processed 218019
+✅ @bbbreaking: processed 218012
+✅ @bbbreaking: processed 218010
+✅ @bbbreaking: processed 217996
+✅ @bbbreaking: processed 217993
+✅ @bbbreaking: processed 217988
+✅ @bbbreaking: processed 217981
+✅ @bbbreaking: processed 217974
+✅ @bbbreaking: processed 217972
+✅ @bbbreaking: processed 217967
+✅ @bbbreaking: processed 217959
+✅ @bbbreaking: processed 217952
+✅ @bbbreaking: processed 217946
+✅ @bbbreaking: processed 217945
+✅ @bbbreaking: processed 217941
+✅ @bbbreaking: processed 217937
+✅ @bbbreaking: processed 217930
+✅ @bbbreaking: processed 217927
+✅ @bbbreaking: processed 217926
+🔎 Fetching @NGnewsgeorgia ...
+💾 Saved 111 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+✅ PDF saved: 251023MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+  File "/Users/tomadshead/telegramdaily/email_pdf.py", line 96
+    """, subtype="html")
+       ^
+SyntaxError: f-string expression part cannot include a backslash
+⚠️ Email send failed or returned non-zero
+===== 2025-10-23 16:50:38  Finished run_daily_news.sh =====
+===== 2025-10-24 02:00:01  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+✅ @arkanewsagency: processed 17204
+✅ @arkanewsagency: processed 17197
+✅ @arkanewsagency: processed 17196
+✅ @arkanewsagency: processed 17194
+🔎 Fetching @dashimbayev ...
+✅ @dashimbayev: processed 9115
+✅ @dashimbayev: processed 9114
+✅ @dashimbayev: processed 9113
+✅ @dashimbayev: processed 9111
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19012
+✅ @mislinemisli: processed 19011
+✅ @mislinemisli: processed 19009
+✅ @mislinemisli: processed 19008
+✅ @mislinemisli: processed 19007
+✅ @mislinemisli: processed 19006
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18146
+✅ @echoonline_news: processed 18135
+✅ @echoonline_news: processed 18130
+✅ @echoonline_news: processed 18087
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 109579
+✅ @insiderUKR: processed 109578
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65202
+✅ @russicaRU: processed 65196
+✅ @russicaRU: processed 65195
+✅ @russicaRU: processed 65194
+✅ @russicaRU: processed 65192
+✅ @russicaRU: processed 65190
+✅ @russicaRU: processed 65189
+✅ @russicaRU: processed 65188
+✅ @russicaRU: processed 65187
+✅ @russicaRU: processed 65186
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 85911
+✅ @bagramyan26: processed 85898
+✅ @bagramyan26: processed 85868
+✅ @bagramyan26: processed 85850
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16204
+✅ @daryo_global: processed 16203
+✅ @daryo_global: processed 16202
+✅ @daryo_global: processed 16201
+✅ @daryo_global: processed 16200
+✅ @daryo_global: processed 16199
+✅ @daryo_global: processed 16198
+🔎 Fetching @kompromat_za ...
+✅ @kompromat_za: processed 5254
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13237
+✅ @preemnik: processed 13235
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 104712
+✅ @Gubery: processed 104709
+✅ @Gubery: processed 104707
+✅ @Gubery: processed 104694
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37373
+✅ @kursivm: processed 37365
+✅ @kursivm: processed 37361
+✅ @kursivm: processed 37354
+✅ @kursivm: processed 37349
+✅ @kursivm: processed 37348
+🔎 Fetching @gaziz1984 ...
+🔎 Fetching @armtoday ...
+✅ @armtoday: processed 95963
+✅ @armtoday: processed 95959
+🔎 Fetching @NGnewsgeorgia ...
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 345375
+✅ @tass_agency: processed 345374
+✅ @tass_agency: processed 345372
+✅ @tass_agency: processed 345371
+✅ @tass_agency: processed 345370
+✅ @tass_agency: processed 345347
+✅ @tass_agency: processed 345325
+✅ @tass_agency: processed 345307
+✅ @tass_agency: processed 345302
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50208
+✅ @bankrollo: processed 50185
+✅ @bankrollo: processed 50181
+✅ @bankrollo: processed 50180
+✅ @bankrollo: processed 50171
+✅ @bankrollo: processed 50166
+✅ @bankrollo: processed 50165
+✅ @bankrollo: processed 50164
+✅ @bankrollo: processed 50151
+✅ @bankrollo: processed 50137
+✅ @bankrollo: processed 50136
+✅ @bankrollo: processed 50128
+✅ @bankrollo: processed 50126
+✅ @bankrollo: processed 50123
+🔎 Fetching @ekho_kavkaza ...
+✅ @ekho_kavkaza: processed 22236
+✅ @ekho_kavkaza: processed 22234
+⚠️ LLM error: 
+🔎 Fetching @istories_media ...
+✅ @istories_media: processed 10642
+✅ @istories_media: processed 10634
+✅ @istories_media: processed 10632
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13235
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218040
+✅ @bbbreaking: processed 218039
+✅ @bbbreaking: processed 218037
+✅ @bbbreaking: processed 218033
+✅ @bbbreaking: processed 218029
+✅ @bbbreaking: processed 218028
+✅ @bbbreaking: processed 218027
+✅ @bbbreaking: processed 218025
+✅ @bbbreaking: processed 218024
+✅ @bbbreaking: processed 218019
+✅ @bbbreaking: processed 218012
+✅ @bbbreaking: processed 218010
+✅ @bbbreaking: processed 217996
+✅ @bbbreaking: processed 217993
+✅ @bbbreaking: processed 217989
+✅ @bbbreaking: processed 217988
+✅ @bbbreaking: processed 217981
+✅ @bbbreaking: processed 217972
+✅ @bbbreaking: processed 217967
+✅ @bbbreaking: processed 217963
+✅ @bbbreaking: processed 217959
+✅ @bbbreaking: processed 217952
+✅ @bbbreaking: processed 217948
+✅ @bbbreaking: processed 217946
+✅ @bbbreaking: processed 217945
+✅ @bbbreaking: processed 217941
+🔎 Fetching @NGnewsgeorgia ...
+💾 Saved 111 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+✅ PDF saved: 251024MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+⚠️ Unexpected response keys: dict_keys(['error'])
+✅ Emailed: /Users/tomadshead/telegramdaily/251024MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-10-24 02:43:27  Finished run_daily_news.sh =====
+===== 2025-10-25 02:00:01  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+✅ @arkanewsagency: processed 17224
+✅ @arkanewsagency: processed 17218
+✅ @arkanewsagency: processed 17214
+✅ @arkanewsagency: processed 17213
+✅ @arkanewsagency: processed 17211
+✅ @arkanewsagency: processed 17208
+✅ @arkanewsagency: processed 17207
+🔎 Fetching @dashimbayev ...
+✅ @dashimbayev: processed 9119
+✅ @dashimbayev: processed 9117
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19018
+✅ @mislinemisli: processed 19017
+✅ @mislinemisli: processed 19016
+✅ @mislinemisli: processed 19015
+✅ @mislinemisli: processed 19014
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18169
+✅ @echoonline_news: processed 18162
+✅ @echoonline_news: processed 18149
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 109676
+✅ @insiderUKR: processed 109669
+✅ @insiderUKR: processed 109658
+✅ @insiderUKR: processed 109649
+✅ @insiderUKR: processed 109641
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65223
+✅ @russicaRU: processed 65220
+✅ @russicaRU: processed 65217
+✅ @russicaRU: processed 65215
+✅ @russicaRU: processed 65213
+✅ @russicaRU: processed 65211
+✅ @russicaRU: processed 65208
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 85957
+✅ @bagramyan26: processed 85914
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16212
+✅ @daryo_global: processed 16211
+✅ @daryo_global: processed 16209
+✅ @daryo_global: processed 16208
+✅ @daryo_global: processed 16207
+✅ @daryo_global: processed 16206
+🔎 Fetching @kompromat_za ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13248
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 104757
+✅ @Gubery: processed 104756
+✅ @Gubery: processed 104751
+✅ @Gubery: processed 104734
+✅ @Gubery: processed 104733
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37402
+✅ @kursivm: processed 37401
+✅ @kursivm: processed 37396
+✅ @kursivm: processed 37393
+✅ @kursivm: processed 37390
+✅ @kursivm: processed 37388
+✅ @kursivm: processed 37385
+✅ @kursivm: processed 37383
+✅ @kursivm: processed 37379
+🔎 Fetching @gaziz1984 ...
+🔎 Fetching @armtoday ...
+✅ @armtoday: processed 95991
+🔎 Fetching @NGnewsgeorgia ...
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 345546
+✅ @tass_agency: processed 345530
+✅ @tass_agency: processed 345522
+✅ @tass_agency: processed 345520
+✅ @tass_agency: processed 345511
+✅ @tass_agency: processed 345500
+✅ @tass_agency: processed 345499
+✅ @tass_agency: processed 345497
+✅ @tass_agency: processed 345483
+✅ @tass_agency: processed 345481
+✅ @tass_agency: processed 345480
+✅ @tass_agency: processed 345479
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50266
+✅ @bankrollo: processed 50261
+✅ @bankrollo: processed 50254
+✅ @bankrollo: processed 50253
+✅ @bankrollo: processed 50247
+✅ @bankrollo: processed 50243
+✅ @bankrollo: processed 50242
+✅ @bankrollo: processed 50241
+✅ @bankrollo: processed 50240
+✅ @bankrollo: processed 50239
+✅ @bankrollo: processed 50232
+✅ @bankrollo: processed 50219
+✅ @bankrollo: processed 50215
+🔎 Fetching @ekho_kavkaza ...
+🔎 Fetching @istories_media ...
+✅ @istories_media: processed 10646
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13248
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218089
+✅ @bbbreaking: processed 218082
+✅ @bbbreaking: processed 218078
+✅ @bbbreaking: processed 218070
+✅ @bbbreaking: processed 218048
+🔎 Fetching @NGnewsgeorgia ...
+💾 Saved 85 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+✅ PDF saved: 251025MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251025MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-10-25 02:38:01  Finished run_daily_news.sh =====
+===== 2025-10-26 02:00:01  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+✅ @arkanewsagency: processed 17226
+✅ @arkanewsagency: processed 17225
+🔎 Fetching @dashimbayev ...
+🔎 Fetching @mislinemisli ...
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18213
+⚠️ LLM error: 
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 109721
+✅ @insiderUKR: processed 109717
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65230
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 85985
+✅ @bagramyan26: processed 85977
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16215
+✅ @daryo_global: processed 16214
+🔎 Fetching @kompromat_za ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13260
+✅ @preemnik: processed 13259
+✅ @preemnik: processed 13257
+✅ @preemnik: processed 13256
+✅ @preemnik: processed 13255
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 104782
+✅ @Gubery: processed 104781
+✅ @Gubery: processed 104776
+✅ @Gubery: processed 104774
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37434
+🔎 Fetching @gaziz1984 ...
+🔎 Fetching @armtoday ...
+⚠️ LLM error: 
+🔎 Fetching @NGnewsgeorgia ...
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 345635
+✅ @tass_agency: processed 345633
+✅ @tass_agency: processed 345587
+✅ @tass_agency: processed 345583
+🔎 Fetching @bankrollo ...
+🔎 Fetching @ekho_kavkaza ...
+🔎 Fetching @istories_media ...
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13260
+✅ @preemnik: processed 13259
+✅ @preemnik: processed 13257
+✅ @preemnik: processed 13256
+✅ @preemnik: processed 13255
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218135
+✅ @bbbreaking: processed 218129
+✅ @bbbreaking: processed 218117
+🔎 Fetching @NGnewsgeorgia ...
+💾 Saved 32 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+✅ PDF saved: 251026MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251026MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-10-26 02:22:38  Finished run_daily_news.sh =====
+===== 2025-10-27 02:00:01  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+🔎 Fetching @dashimbayev ...
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19020
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18259
+✅ @echoonline_news: processed 18252
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 109768
+✅ @insiderUKR: processed 109767
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65243
+🔎 Fetching @bagramyan26 ...
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16218
+✅ @daryo_global: processed 16217
+🔎 Fetching @kompromat_za ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13271
+✅ @preemnik: processed 13267
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 104799
+✅ @Gubery: processed 104798
+✅ @Gubery: processed 104797
+✅ @Gubery: processed 104788
+🔎 Fetching @kursivm ...
+🔎 Fetching @gaziz1984 ...
+🔎 Fetching @armtoday ...
+🔎 Fetching @NGnewsgeorgia ...
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 345769
+✅ @tass_agency: processed 345756
+✅ @tass_agency: processed 345754
+✅ @tass_agency: processed 345729
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50329
+✅ @bankrollo: processed 50324
+✅ @bankrollo: processed 50313
+🔎 Fetching @ekho_kavkaza ...
+🔎 Fetching @istories_media ...
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13271
+✅ @preemnik: processed 13267
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218175
+✅ @bbbreaking: processed 218151
+✅ @bbbreaking: processed 218150
+🔎 Fetching @NGnewsgeorgia ...
+💾 Saved 26 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+✅ PDF saved: 251027MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251027MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-10-27 02:20:31  Finished run_daily_news.sh =====
+===== 2025-10-29 02:00:01  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+✅ @arkanewsagency: processed 17265
+✅ @arkanewsagency: processed 17263
+✅ @arkanewsagency: processed 17262
+✅ @arkanewsagency: processed 17256
+✅ @arkanewsagency: processed 17255
+✅ @arkanewsagency: processed 17254
+✅ @arkanewsagency: processed 17253
+✅ @arkanewsagency: processed 17252
+🔎 Fetching @dashimbayev ...
+✅ @dashimbayev: processed 9135
+✅ @dashimbayev: processed 9133
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19037
+✅ @mislinemisli: processed 19036
+✅ @mislinemisli: processed 19034
+✅ @mislinemisli: processed 19033
+🔎 Fetching @echoonline_news ...
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 109901
+✅ @insiderUKR: processed 109878
+✅ @insiderUKR: processed 109871
+✅ @insiderUKR: processed 109863
+✅ @insiderUKR: processed 109858
+✅ @insiderUKR: processed 109851
+✅ @insiderUKR: processed 109849
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65270
+✅ @russicaRU: processed 65268
+✅ @russicaRU: processed 65267
+✅ @russicaRU: processed 65265
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 86090
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16231
+✅ @daryo_global: processed 16230
+✅ @daryo_global: processed 16229
+✅ @daryo_global: processed 16228
+✅ @daryo_global: processed 16227
+✅ @daryo_global: processed 16226
+🔎 Fetching @kompromat_za ...
+✅ @kompromat_za: processed 5273
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13290
+✅ @preemnik: processed 13288
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 104880
+✅ @Gubery: processed 104862
+✅ @Gubery: processed 104859
+✅ @Gubery: processed 104852
+✅ @Gubery: processed 104842
+✅ @Gubery: processed 104841
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37496
+✅ @kursivm: processed 37484
+✅ @kursivm: processed 37481
+✅ @kursivm: processed 37480
+✅ @kursivm: processed 37479
+✅ @kursivm: processed 37476
+✅ @kursivm: processed 37473
+✅ @kursivm: processed 37472
+✅ @kursivm: processed 37463
+🔎 Fetching @gaziz1984 ...
+🔎 Fetching @armtoday ...
+✅ @armtoday: processed 96109
+🔎 Fetching @NGnewsgeorgia ...
+✅ @NGnewsgeorgia: processed 26069
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 346150
+✅ @tass_agency: processed 346078
+✅ @tass_agency: processed 346060
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50430
+✅ @bankrollo: processed 50419
+✅ @bankrollo: processed 50415
+✅ @bankrollo: processed 50412
+✅ @bankrollo: processed 50401
+✅ @bankrollo: processed 50399
+✅ @bankrollo: processed 50397
+✅ @bankrollo: processed 50395
+✅ @bankrollo: processed 50391
+🔎 Fetching @ekho_kavkaza ...
+✅ @ekho_kavkaza: processed 22310
+🔎 Fetching @istories_media ...
+✅ @istories_media: processed 10670
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13290
+✅ @preemnik: processed 13288
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218321
+✅ @bbbreaking: processed 218314
+✅ @bbbreaking: processed 218302
+✅ @bbbreaking: processed 218300
+✅ @bbbreaking: processed 218291
+✅ @bbbreaking: processed 218275
+✅ @bbbreaking: processed 218262
+✅ @bbbreaking: processed 218247
+✅ @bbbreaking: processed 218245
+✅ @bbbreaking: processed 218240
+🔎 Fetching @NGnewsgeorgia ...
+✅ @NGnewsgeorgia: processed 26069
+💾 Saved 79 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+✅ PDF saved: 251029MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251029MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-10-29 02:39:14  Finished run_daily_news.sh =====
+===== 2025-10-30 02:00:02  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+✅ @arkanewsagency: processed 17286
+✅ @arkanewsagency: processed 17280
+✅ @arkanewsagency: processed 17277
+✅ @arkanewsagency: processed 17274
+✅ @arkanewsagency: processed 17272
+🔎 Fetching @dashimbayev ...
+✅ @dashimbayev: processed 9144
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19048
+✅ @mislinemisli: processed 19047
+✅ @mislinemisli: processed 19045
+✅ @mislinemisli: processed 19044
+✅ @mislinemisli: processed 19041
+✅ @mislinemisli: processed 19040
+✅ @mislinemisli: processed 19039
+✅ @mislinemisli: processed 19038
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18363
+✅ @echoonline_news: processed 18355
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 109977
+✅ @insiderUKR: processed 109962
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65288
+✅ @russicaRU: processed 65284
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 86160
+✅ @bagramyan26: processed 86136
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16239
+✅ @daryo_global: processed 16237
+✅ @daryo_global: processed 16236
+✅ @daryo_global: processed 16235
+✅ @daryo_global: processed 16234
+✅ @daryo_global: processed 16233
+🔎 Fetching @kompromat_za ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13295
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 104909
+✅ @Gubery: processed 104906
+✅ @Gubery: processed 104899
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37548
+✅ @kursivm: processed 37544
+✅ @kursivm: processed 37535
+✅ @kursivm: processed 37532
+✅ @kursivm: processed 37531
+✅ @kursivm: processed 37529
+✅ @kursivm: processed 37519
+✅ @kursivm: processed 37510
+✅ @kursivm: processed 37502
+✅ @kursivm: processed 37501
+🔎 Fetching @gaziz1984 ...
+🔎 Fetching @armtoday ...
+✅ @armtoday: processed 96180
+🔎 Fetching @NGnewsgeorgia ...
+✅ @NGnewsgeorgia: processed 26084
+✅ @NGnewsgeorgia: processed 26079
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 346326
+✅ @tass_agency: processed 346281
+✅ @tass_agency: processed 346274
+✅ @tass_agency: processed 346258
+✅ @tass_agency: processed 346243
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50498
+✅ @bankrollo: processed 50495
+✅ @bankrollo: processed 50487
+✅ @bankrollo: processed 50481
+✅ @bankrollo: processed 50479
+✅ @bankrollo: processed 50472
+✅ @bankrollo: processed 50458
+✅ @bankrollo: processed 50457
+✅ @bankrollo: processed 50455
+✅ @bankrollo: processed 50453
+✅ @bankrollo: processed 50451
+🔎 Fetching @ekho_kavkaza ...
+🔎 Fetching @istories_media ...
+✅ @istories_media: processed 10677
+✅ @istories_media: processed 10674
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13295
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218385
+✅ @bbbreaking: processed 218372
+✅ @bbbreaking: processed 218347
+✅ @bbbreaking: processed 218341
+✅ @bbbreaking: processed 218324
+🔎 Fetching @NGnewsgeorgia ...
+✅ @NGnewsgeorgia: processed 26086
+✅ @NGnewsgeorgia: processed 26079
+💾 Saved 71 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+✅ PDF saved: 251030MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251030MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-10-30 02:38:38  Finished run_daily_news.sh =====
+===== 2025-10-31 02:00:01  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+✅ @arkanewsagency: processed 17303
+✅ @arkanewsagency: processed 17302
+✅ @arkanewsagency: processed 17301
+✅ @arkanewsagency: processed 17300
+✅ @arkanewsagency: processed 17298
+✅ @arkanewsagency: processed 17296
+✅ @arkanewsagency: processed 17294
+✅ @arkanewsagency: processed 17292
+✅ @arkanewsagency: processed 17290
+🔎 Fetching @dashimbayev ...
+✅ @dashimbayev: processed 9152
+✅ @dashimbayev: processed 9149
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19055
+✅ @mislinemisli: processed 19053
+✅ @mislinemisli: processed 19052
+✅ @mislinemisli: processed 19050
+✅ @mislinemisli: processed 19049
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18400
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 110071
+✅ @insiderUKR: processed 110070
+✅ @insiderUKR: processed 110058
+✅ @insiderUKR: processed 110049
+✅ @insiderUKR: processed 110041
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65302
+✅ @russicaRU: processed 65300
+✅ @russicaRU: processed 65295
+✅ @russicaRU: processed 65294
+✅ @russicaRU: processed 65293
+✅ @russicaRU: processed 65292
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 86241
+✅ @bagramyan26: processed 86229
+✅ @bagramyan26: processed 86224
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16245
+✅ @daryo_global: processed 16244
+✅ @daryo_global: processed 16243
+✅ @daryo_global: processed 16242
+✅ @daryo_global: processed 16241
+✅ @daryo_global: processed 16240
+🔎 Fetching @kompromat_za ...
+🔎 Fetching @preemnik ...
+🔎 Fetching @anthabar ...
+✅ @anthabar: processed 4072
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 104951
+✅ @Gubery: processed 104950
+✅ @Gubery: processed 104946
+✅ @Gubery: processed 104941
+✅ @Gubery: processed 104933
+✅ @Gubery: processed 104932
+✅ @Gubery: processed 104931
+✅ @Gubery: processed 104929
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37596
+✅ @kursivm: processed 37595
+✅ @kursivm: processed 37594
+✅ @kursivm: processed 37593
+✅ @kursivm: processed 37588
+✅ @kursivm: processed 37586
+✅ @kursivm: processed 37585
+✅ @kursivm: processed 37584
+✅ @kursivm: processed 37582
+✅ @kursivm: processed 37578
+✅ @kursivm: processed 37577
+✅ @kursivm: processed 37566
+🔎 Fetching @gaziz1984 ...
+🔎 Fetching @armtoday ...
+✅ @armtoday: processed 96225
+✅ @armtoday: processed 96224
+✅ @armtoday: processed 96223
+✅ @armtoday: processed 96216
+🔎 Fetching @NGnewsgeorgia ...
+✅ @NGnewsgeorgia: processed 26093
+✅ @NGnewsgeorgia: processed 26091
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 346462
+✅ @tass_agency: processed 346452
+✅ @tass_agency: processed 346440
+✅ @tass_agency: processed 346433
+✅ @tass_agency: processed 346419
+✅ @tass_agency: processed 346398
+✅ @tass_agency: processed 346397
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50554
+⚠️ LLM error: 
+✅ @bankrollo: processed 50547
+✅ @bankrollo: processed 50543
+✅ @bankrollo: processed 50539
+✅ @bankrollo: processed 50527
+🔎 Fetching @ekho_kavkaza ...
+✅ @ekho_kavkaza: processed 22329
+✅ @ekho_kavkaza: processed 22326
+🔎 Fetching @istories_media ...
+✅ @istories_media: processed 10684
+⚠️ LLM error: 
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218452
+✅ @bbbreaking: processed 218442
+✅ @bbbreaking: processed 218431
+✅ @bbbreaking: processed 218428
+✅ @bbbreaking: processed 218425
+✅ @bbbreaking: processed 218421
+✅ @bbbreaking: processed 218417
+✅ @bbbreaking: processed 218411
+✅ @bbbreaking: processed 218405
+✅ @bbbreaking: processed 218403
+✅ @bbbreaking: processed 218401
+✅ @bbbreaking: processed 218391
+🔎 Fetching @NGnewsgeorgia ...
+✅ @NGnewsgeorgia: processed 26093
+✅ @NGnewsgeorgia: processed 26091
+💾 Saved 93 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+✅ PDF saved: 251031MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251031MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-10-31 02:42:30  Finished run_daily_news.sh =====
+===== 2025-11-01 02:00:02  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+✅ @arkanewsagency: processed 17319
+✅ @arkanewsagency: processed 17318
+✅ @arkanewsagency: processed 17315
+✅ @arkanewsagency: processed 17311
+✅ @arkanewsagency: processed 17306
+✅ @arkanewsagency: processed 17305
+🔎 Fetching @dashimbayev ...
+✅ @dashimbayev: processed 9158
+✅ @dashimbayev: processed 9155
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19060
+✅ @mislinemisli: processed 19059
+✅ @mislinemisli: processed 19058
+✅ @mislinemisli: processed 19056
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18433
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 110154
+✅ @insiderUKR: processed 110138
+✅ @insiderUKR: processed 110134
+✅ @insiderUKR: processed 110092
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65323
+✅ @russicaRU: processed 65318
+✅ @russicaRU: processed 65314
+✅ @russicaRU: processed 65312
+✅ @russicaRU: processed 65308
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 86275
+✅ @bagramyan26: processed 86252
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16254
+✅ @daryo_global: processed 16253
+✅ @daryo_global: processed 16252
+✅ @daryo_global: processed 16251
+✅ @daryo_global: processed 16250
+✅ @daryo_global: processed 16248
+🔎 Fetching @kompromat_za ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13314
+✅ @preemnik: processed 13309
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 104998
+✅ @Gubery: processed 104994
+✅ @Gubery: processed 104982
+✅ @Gubery: processed 104975
+✅ @Gubery: processed 104974
+✅ @Gubery: processed 104972
+✅ @Gubery: processed 104971
+✅ @Gubery: processed 104968
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37601
+🔎 Fetching @gaziz1984 ...
+🔎 Fetching @armtoday ...
+✅ @armtoday: processed 96268
+🔎 Fetching @NGnewsgeorgia ...
+✅ @NGnewsgeorgia: processed 26107
+✅ @NGnewsgeorgia: processed 26103
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 346637
+✅ @tass_agency: processed 346594
+✅ @tass_agency: processed 346583
+✅ @tass_agency: processed 346557
+✅ @tass_agency: processed 346547
+✅ @tass_agency: processed 346545
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50621
+✅ @bankrollo: processed 50618
+✅ @bankrollo: processed 50611
+✅ @bankrollo: processed 50604
+✅ @bankrollo: processed 50590
+✅ @bankrollo: processed 50580
+✅ @bankrollo: processed 50579
+✅ @bankrollo: processed 50569
+✅ @bankrollo: processed 50566
+🔎 Fetching @ekho_kavkaza ...
+✅ @ekho_kavkaza: processed 22342
+✅ @ekho_kavkaza: processed 22341
+🔎 Fetching @istories_media ...
+✅ @istories_media: processed 10702
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13314
+✅ @preemnik: processed 13309
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218518
+✅ @bbbreaking: processed 218514
+✅ @bbbreaking: processed 218506
+✅ @bbbreaking: processed 218503
+✅ @bbbreaking: processed 218498
+✅ @bbbreaking: processed 218494
+✅ @bbbreaking: processed 218487
+✅ @bbbreaking: processed 218484
+✅ @bbbreaking: processed 218475
+✅ @bbbreaking: processed 218474
+✅ @bbbreaking: processed 218471
+🔎 Fetching @NGnewsgeorgia ...
+✅ @NGnewsgeorgia: processed 26107
+✅ @NGnewsgeorgia: processed 26103
+💾 Saved 77 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+✅ PDF saved: 251101MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251101MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-11-01 02:36:43  Finished run_daily_news.sh =====
+===== 2025-11-02 02:00:01  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+🔎 Fetching @dashimbayev ...
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19066
+✅ @mislinemisli: processed 19065
+✅ @mislinemisli: processed 19064
+✅ @mislinemisli: processed 19063
+🔎 Fetching @echoonline_news ...
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 110217
+✅ @insiderUKR: processed 110214
+✅ @insiderUKR: processed 110210
+✅ @insiderUKR: processed 110209
+✅ @insiderUKR: processed 110206
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65332
+✅ @russicaRU: processed 65329
+✅ @russicaRU: processed 65328
+🔎 Fetching @bagramyan26 ...
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16257
+✅ @daryo_global: processed 16255
+🔎 Fetching @kompromat_za ...
+🔎 Fetching @preemnik ...
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 105051
+✅ @Gubery: processed 105035
+✅ @Gubery: processed 105028
+✅ @Gubery: processed 105024
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37642
+🔎 Fetching @gaziz1984 ...
+🔎 Fetching @armtoday ...
+✅ @armtoday: processed 96292
+🔎 Fetching @NGnewsgeorgia ...
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 346758
+✅ @tass_agency: processed 346738
+✅ @tass_agency: processed 346716
+✅ @tass_agency: processed 346705
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50672
+✅ @bankrollo: processed 50666
+✅ @bankrollo: processed 50659
+✅ @bankrollo: processed 50623
+🔎 Fetching @ekho_kavkaza ...
+🔎 Fetching @istories_media ...
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218572
+✅ @bbbreaking: processed 218568
+✅ @bbbreaking: processed 218564
+✅ @bbbreaking: processed 218561
+✅ @bbbreaking: processed 218555
+✅ @bbbreaking: processed 218554
+✅ @bbbreaking: processed 218550
+✅ @bbbreaking: processed 218542
+✅ @bbbreaking: processed 218541
+✅ @bbbreaking: processed 218537
+✅ @bbbreaking: processed 218532
+✅ @bbbreaking: processed 218531
+🔎 Fetching @NGnewsgeorgia ...
+💾 Saved 40 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+✅ PDF saved: 251102MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251102MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-11-02 02:22:50  Finished run_daily_news.sh =====
+===== 2025-11-03 02:00:01  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+🔎 Fetching @dashimbayev ...
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19067
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18497
+✅ @echoonline_news: processed 18495
+✅ @echoonline_news: processed 18485
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 110264
+✅ @insiderUKR: processed 110248
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65340
+✅ @russicaRU: processed 65339
+🔎 Fetching @bagramyan26 ...
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16260
+✅ @daryo_global: processed 16258
+🔎 Fetching @kompromat_za ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13323
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 105062
+✅ @Gubery: processed 105058
+✅ @Gubery: processed 105056
+🔎 Fetching @kursivm ...
+🔎 Fetching @gaziz1984 ...
+🔎 Fetching @armtoday ...
+🔎 Fetching @NGnewsgeorgia ...
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 346792
+✅ @tass_agency: processed 346775
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50686
+🔎 Fetching @ekho_kavkaza ...
+🔎 Fetching @istories_media ...
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13323
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218589
+✅ @bbbreaking: processed 218585
+✅ @bbbreaking: processed 218575
+🔎 Fetching @NGnewsgeorgia ...
+💾 Saved 21 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+✅ PDF saved: 251103MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251103MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-11-03 02:18:07  Finished run_daily_news.sh =====
+===== 2025-11-04 02:00:01  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+✅ @arkanewsagency: processed 17334
+✅ @arkanewsagency: processed 17333
+✅ @arkanewsagency: processed 17326
+✅ @arkanewsagency: processed 17325
+✅ @arkanewsagency: processed 17324
+✅ @arkanewsagency: processed 17323
+🔎 Fetching @dashimbayev ...
+✅ @dashimbayev: processed 9161
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19069
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18517
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 110309
+✅ @insiderUKR: processed 110306
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65362
+✅ @russicaRU: processed 65360
+✅ @russicaRU: processed 65359
+✅ @russicaRU: processed 65356
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 86365
+✅ @bagramyan26: processed 86356
+✅ @bagramyan26: processed 86346
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16266
+✅ @daryo_global: processed 16265
+✅ @daryo_global: processed 16264
+✅ @daryo_global: processed 16263
+✅ @daryo_global: processed 16261
+🔎 Fetching @kompromat_za ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13336
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 105084
+✅ @Gubery: processed 105078
+✅ @Gubery: processed 105074
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37696
+✅ @kursivm: processed 37695
+✅ @kursivm: processed 37691
+✅ @kursivm: processed 37687
+✅ @kursivm: processed 37684
+✅ @kursivm: processed 37679
+🔎 Fetching @gaziz1984 ...
+🔎 Fetching @armtoday ...
+🔎 Fetching @NGnewsgeorgia ...
+✅ @NGnewsgeorgia: processed 26118
+✅ @NGnewsgeorgia: processed 26110
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 346922
+✅ @tass_agency: processed 346875
+✅ @tass_agency: processed 346868
+✅ @tass_agency: processed 346846
+🔎 Fetching @bankrollo ...
+🔎 Fetching @ekho_kavkaza ...
+✅ @ekho_kavkaza: processed 22364
+🔎 Fetching @istories_media ...
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13336
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218620
+✅ @bbbreaking: processed 218618
+✅ @bbbreaking: processed 218615
+✅ @bbbreaking: processed 218614
+✅ @bbbreaking: processed 218610
+✅ @bbbreaking: processed 218608
+✅ @bbbreaking: processed 218602
+🔎 Fetching @NGnewsgeorgia ...
+✅ @NGnewsgeorgia: processed 26118
+✅ @NGnewsgeorgia: processed 26110
+💾 Saved 50 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+🧹 Removed 3 duplicate messages (same URL).
+✅ PDF saved: 251104MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251104MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-11-04 02:28:01  Finished run_daily_news.sh =====
+===== 2025-11-05 02:00:01  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @dashimbayev ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @mislinemisli ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @echoonline_news ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @insiderUKR ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @bagramyan26 ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @daryo_global ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @kompromat_za ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @preemnik ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @kursivm ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @gaziz1984 ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @armtoday ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @NGnewsgeorgia ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @tass_agency ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @bankrollo ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @ekho_kavkaza ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @istories_media ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @arkadyDubnov ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @preemnik ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @bbbreaking ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @NGnewsgeorgia ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ No relevant messages found.
+Running Telegram_NewsSummary_toPDF.py ...
+🧹 Removed 3 duplicate messages (same URL or identical text).
+✅ PDF saved: 251105MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251105MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-11-05 02:00:41  Finished run_daily_news.sh =====
+===== 2025-11-06 02:00:02  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @dashimbayev ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @mislinemisli ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @echoonline_news ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @insiderUKR ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @bagramyan26 ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @daryo_global ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @kompromat_za ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @preemnik ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @anthabar ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @kursivm ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @gaziz1984 ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @armtoday ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @NGnewsgeorgia ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @tass_agency ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @bankrollo ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @ekho_kavkaza ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @istories_media ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @arkadyDubnov ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @preemnik ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @bbbreaking ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+🔎 Fetching @NGnewsgeorgia ...
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ LM Studio returned HTML (model not loaded / wrong endpoint).
+⚠️ No relevant messages found.
+Running Telegram_NewsSummary_toPDF.py ...
+🧹 Removed 3 duplicate messages (same URL or identical text).
+✅ PDF saved: 251106MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251106MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com
+===== 2025-11-06 02:00:39  Finished run_daily_news.sh =====
+===== 2025-11-07 02:00:01  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+🔎 Fetching @dashimbayev ...
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19087
+💾 Updated last_id for @mislinemisli → 19087
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18626
+✅ @echoonline_news: processed 18625
+✅ @echoonline_news: processed 18624
+✅ @echoonline_news: processed 18623
+✅ @echoonline_news: processed 18622
+✅ @echoonline_news: processed 18621
+✅ @echoonline_news: processed 18620
+💾 Updated last_id for @echoonline_news → 18626
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 110529
+✅ @insiderUKR: processed 110528
+✅ @insiderUKR: processed 110527
+✅ @insiderUKR: processed 110526
+✅ @insiderUKR: processed 110521
+✅ @insiderUKR: processed 110520
+✅ @insiderUKR: processed 110519
+✅ @insiderUKR: processed 110518
+✅ @insiderUKR: processed 110517
+✅ @insiderUKR: processed 110516
+✅ @insiderUKR: processed 110513
+✅ @insiderUKR: processed 110512
+✅ @insiderUKR: processed 110511
+✅ @insiderUKR: processed 110510
+✅ @insiderUKR: processed 110509
+✅ @insiderUKR: processed 110507
+✅ @insiderUKR: processed 110506
+✅ @insiderUKR: processed 110505
+✅ @insiderUKR: processed 110501
+✅ @insiderUKR: processed 110499
+✅ @insiderUKR: processed 110498
+💾 Updated last_id for @insiderUKR → 110529
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65403
+✅ @russicaRU: processed 65402
+✅ @russicaRU: processed 65401
+✅ @russicaRU: processed 65400
+💾 Updated last_id for @russicaRU → 65403
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 86513
+✅ @bagramyan26: processed 86512
+✅ @bagramyan26: processed 86510
+✅ @bagramyan26: processed 86509
+✅ @bagramyan26: processed 86508
+✅ @bagramyan26: processed 86507
+✅ @bagramyan26: processed 86506
+✅ @bagramyan26: processed 86505
+✅ @bagramyan26: processed 86503
+✅ @bagramyan26: processed 86502
+✅ @bagramyan26: processed 86501
+💾 Updated last_id for @bagramyan26 → 86513
+🔎 Fetching @daryo_global ...
+🔎 Fetching @kompromat_za ...
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13362
+💾 Updated last_id for @preemnik → 13362
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+✅ @stanovaya: processed 1854
+💾 Updated last_id for @stanovaya → 1854
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 105227
+✅ @Gubery: processed 105217
+✅ @Gubery: processed 105216
+✅ @Gubery: processed 105207
+✅ @Gubery: processed 105205
+💾 Updated last_id for @Gubery → 105227
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37844
+✅ @kursivm: processed 37843
+✅ @kursivm: processed 37842
+✅ @kursivm: processed 37841
+💾 Updated last_id for @kursivm → 37844
+🔎 Fetching @gaziz1984 ...
+✅ @gaziz1984: processed 4969
+💾 Updated last_id for @gaziz1984 → 4969
+🔎 Fetching @armtoday ...
+✅ @armtoday: processed 96509
+✅ @armtoday: processed 96506
+✅ @armtoday: processed 96505
+✅ @armtoday: processed 96504
+💾 Updated last_id for @armtoday → 96509
+🔎 Fetching @NGnewsgeorgia ...
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 347364
+✅ @tass_agency: processed 347363
+✅ @tass_agency: processed 347362
+✅ @tass_agency: processed 347361
+✅ @tass_agency: processed 347360
+✅ @tass_agency: processed 347359
+✅ @tass_agency: processed 347358
+✅ @tass_agency: processed 347357
+✅ @tass_agency: processed 347356
+✅ @tass_agency: processed 347355
+✅ @tass_agency: processed 347354
+✅ @tass_agency: processed 347353
+✅ @tass_agency: processed 347351
+✅ @tass_agency: processed 347349
+✅ @tass_agency: processed 347348
+✅ @tass_agency: processed 347347
+✅ @tass_agency: processed 347346
+✅ @tass_agency: processed 347345
+✅ @tass_agency: processed 347344
+✅ @tass_agency: processed 347342
+✅ @tass_agency: processed 347341
+✅ @tass_agency: processed 347340
+✅ @tass_agency: processed 347339
+✅ @tass_agency: processed 347338
+✅ @tass_agency: processed 347337
+💾 Updated last_id for @tass_agency → 347364
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50879
+✅ @bankrollo: processed 50877
+✅ @bankrollo: processed 50876
+✅ @bankrollo: processed 50869
+💾 Updated last_id for @bankrollo → 50879
+🔎 Fetching @ekho_kavkaza ...
+✅ @ekho_kavkaza: processed 22421
+✅ @ekho_kavkaza: processed 22420
+✅ @ekho_kavkaza: processed 22418
+✅ @ekho_kavkaza: processed 22416
+💾 Updated last_id for @ekho_kavkaza → 22421
+🔎 Fetching @istories_media ...
+✅ @istories_media: processed 10730
+💾 Updated last_id for @istories_media → 10730
+🔎 Fetching @arkadyDubnov ...
+✅ @arkadyDubnov: processed 1949
+💾 Updated last_id for @arkadyDubnov → 1949
+🔎 Fetching @preemnik ...
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218869
+✅ @bbbreaking: processed 218868
+✅ @bbbreaking: processed 218867
+✅ @bbbreaking: processed 218866
+✅ @bbbreaking: processed 218865
+✅ @bbbreaking: processed 218864
+✅ @bbbreaking: processed 218861
+✅ @bbbreaking: processed 218859
+💾 Updated last_id for @bbbreaking → 218869
+🔎 Fetching @NGnewsgeorgia ...
+💾 Saved 103 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+🧹 Removed 0 duplicate messages (same URL or identical text).
+✅ PDF saved: 251107MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251107MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com, ara@macro-advisory.com, oop@macro-advisory.com
+===== 2025-11-07 02:07:20  Finished run_daily_news.sh =====
+===== 2025-11-08 02:00:01  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+✅ @arkanewsagency: processed 17408
+✅ @arkanewsagency: processed 17407
+✅ @arkanewsagency: processed 17406
+✅ @arkanewsagency: processed 17405
+✅ @arkanewsagency: processed 17404
+✅ @arkanewsagency: processed 17403
+✅ @arkanewsagency: processed 17402
+✅ @arkanewsagency: processed 17400
+✅ @arkanewsagency: processed 17399
+✅ @arkanewsagency: processed 17398
+✅ @arkanewsagency: processed 17397
+✅ @arkanewsagency: processed 17396
+✅ @arkanewsagency: processed 17394
+✅ @arkanewsagency: processed 17393
+✅ @arkanewsagency: processed 17392
+✅ @arkanewsagency: processed 17391
+💾 Updated last_id for @arkanewsagency → 17408
+🔎 Fetching @dashimbayev ...
+✅ @dashimbayev: processed 9203
+✅ @dashimbayev: processed 9201
+✅ @dashimbayev: processed 9200
+✅ @dashimbayev: processed 9198
+✅ @dashimbayev: processed 9197
+💾 Updated last_id for @dashimbayev → 9203
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19091
+✅ @mislinemisli: processed 19090
+✅ @mislinemisli: processed 19089
+✅ @mislinemisli: processed 19088
+💾 Updated last_id for @mislinemisli → 19091
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18658
+✅ @echoonline_news: processed 18657
+✅ @echoonline_news: processed 18656
+✅ @echoonline_news: processed 18655
+✅ @echoonline_news: processed 18654
+✅ @echoonline_news: processed 18653
+✅ @echoonline_news: processed 18652
+✅ @echoonline_news: processed 18651
+✅ @echoonline_news: processed 18648
+✅ @echoonline_news: processed 18647
+✅ @echoonline_news: processed 18646
+✅ @echoonline_news: processed 18643
+✅ @echoonline_news: processed 18642
+✅ @echoonline_news: processed 18640
+✅ @echoonline_news: processed 18639
+✅ @echoonline_news: processed 18638
+✅ @echoonline_news: processed 18636
+✅ @echoonline_news: processed 18635
+✅ @echoonline_news: processed 18633
+✅ @echoonline_news: processed 18629
+💾 Updated last_id for @echoonline_news → 18658
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 110627
+✅ @insiderUKR: processed 110626
+✅ @insiderUKR: processed 110625
+✅ @insiderUKR: processed 110624
+✅ @insiderUKR: processed 110623
+✅ @insiderUKR: processed 110622
+✅ @insiderUKR: processed 110621
+✅ @insiderUKR: processed 110619
+✅ @insiderUKR: processed 110618
+✅ @insiderUKR: processed 110616
+✅ @insiderUKR: processed 110615
+✅ @insiderUKR: processed 110614
+✅ @insiderUKR: processed 110613
+✅ @insiderUKR: processed 110612
+✅ @insiderUKR: processed 110611
+✅ @insiderUKR: processed 110610
+✅ @insiderUKR: processed 110609
+✅ @insiderUKR: processed 110608
+✅ @insiderUKR: processed 110607
+✅ @insiderUKR: processed 110606
+✅ @insiderUKR: processed 110605
+✅ @insiderUKR: processed 110604
+✅ @insiderUKR: processed 110603
+✅ @insiderUKR: processed 110602
+✅ @insiderUKR: processed 110601
+✅ @insiderUKR: processed 110600
+✅ @insiderUKR: processed 110598
+✅ @insiderUKR: processed 110597
+✅ @insiderUKR: processed 110596
+✅ @insiderUKR: processed 110595
+✅ @insiderUKR: processed 110594
+✅ @insiderUKR: processed 110593
+✅ @insiderUKR: processed 110592
+✅ @insiderUKR: processed 110591
+✅ @insiderUKR: processed 110590
+✅ @insiderUKR: processed 110589
+✅ @insiderUKR: processed 110588
+✅ @insiderUKR: processed 110587
+✅ @insiderUKR: processed 110586
+✅ @insiderUKR: processed 110585
+✅ @insiderUKR: processed 110584
+✅ @insiderUKR: processed 110583
+✅ @insiderUKR: processed 110582
+✅ @insiderUKR: processed 110580
+✅ @insiderUKR: processed 110579
+✅ @insiderUKR: processed 110578
+✅ @insiderUKR: processed 110577
+✅ @insiderUKR: processed 110574
+✅ @insiderUKR: processed 110572
+✅ @insiderUKR: processed 110571
+✅ @insiderUKR: processed 110568
+✅ @insiderUKR: processed 110567
+✅ @insiderUKR: processed 110561
+✅ @insiderUKR: processed 110560
+✅ @insiderUKR: processed 110559
+✅ @insiderUKR: processed 110555
+✅ @insiderUKR: processed 110554
+✅ @insiderUKR: processed 110553
+✅ @insiderUKR: processed 110552
+✅ @insiderUKR: processed 110550
+✅ @insiderUKR: processed 110549
+✅ @insiderUKR: processed 110548
+✅ @insiderUKR: processed 110547
+✅ @insiderUKR: processed 110546
+✅ @insiderUKR: processed 110544
+✅ @insiderUKR: processed 110543
+✅ @insiderUKR: processed 110542
+✅ @insiderUKR: processed 110541
+✅ @insiderUKR: processed 110540
+✅ @insiderUKR: processed 110539
+✅ @insiderUKR: processed 110538
+✅ @insiderUKR: processed 110534
+✅ @insiderUKR: processed 110533
+✅ @insiderUKR: processed 110532
+✅ @insiderUKR: processed 110531
+✅ @insiderUKR: processed 110530
+💾 Updated last_id for @insiderUKR → 110627
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65421
+✅ @russicaRU: processed 65419
+✅ @russicaRU: processed 65417
+✅ @russicaRU: processed 65416
+✅ @russicaRU: processed 65413
+✅ @russicaRU: processed 65412
+✅ @russicaRU: processed 65411
+✅ @russicaRU: processed 65408
+✅ @russicaRU: processed 65406
+✅ @russicaRU: processed 65405
+💾 Updated last_id for @russicaRU → 65421
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 86580
+✅ @bagramyan26: processed 86579
+✅ @bagramyan26: processed 86576
+✅ @bagramyan26: processed 86575
+✅ @bagramyan26: processed 86574
+✅ @bagramyan26: processed 86573
+✅ @bagramyan26: processed 86572
+✅ @bagramyan26: processed 86571
+✅ @bagramyan26: processed 86570
+✅ @bagramyan26: processed 86569
+✅ @bagramyan26: processed 86566
+✅ @bagramyan26: processed 86565
+✅ @bagramyan26: processed 86563
+✅ @bagramyan26: processed 86562
+✅ @bagramyan26: processed 86561
+✅ @bagramyan26: processed 86560
+✅ @bagramyan26: processed 86559
+✅ @bagramyan26: processed 86558
+✅ @bagramyan26: processed 86557
+✅ @bagramyan26: processed 86556
+✅ @bagramyan26: processed 86555
+✅ @bagramyan26: processed 86553
+✅ @bagramyan26: processed 86552
+✅ @bagramyan26: processed 86550
+✅ @bagramyan26: processed 86549
+✅ @bagramyan26: processed 86548
+✅ @bagramyan26: processed 86547
+✅ @bagramyan26: processed 86546
+✅ @bagramyan26: processed 86545
+✅ @bagramyan26: processed 86544
+✅ @bagramyan26: processed 86543
+✅ @bagramyan26: processed 86542
+✅ @bagramyan26: processed 86541
+✅ @bagramyan26: processed 86540
+✅ @bagramyan26: processed 86539
+✅ @bagramyan26: processed 86538
+✅ @bagramyan26: processed 86537
+✅ @bagramyan26: processed 86531
+✅ @bagramyan26: processed 86530
+✅ @bagramyan26: processed 86529
+✅ @bagramyan26: processed 86526
+✅ @bagramyan26: processed 86525
+✅ @bagramyan26: processed 86524
+✅ @bagramyan26: processed 86523
+✅ @bagramyan26: processed 86522
+✅ @bagramyan26: processed 86520
+✅ @bagramyan26: processed 86519
+✅ @bagramyan26: processed 86517
+✅ @bagramyan26: processed 86514
+💾 Updated last_id for @bagramyan26 → 86580
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16300
+✅ @daryo_global: processed 16299
+✅ @daryo_global: processed 16298
+✅ @daryo_global: processed 16297
+✅ @daryo_global: processed 16296
+✅ @daryo_global: processed 16295
+✅ @daryo_global: processed 16294
+✅ @daryo_global: processed 16293
+✅ @daryo_global: processed 16292
+✅ @daryo_global: processed 16291
+💾 Updated last_id for @daryo_global → 16300
+🔎 Fetching @kompromat_za ...
+✅ @kompromat_za: processed 5309
+💾 Updated last_id for @kompromat_za → 5309
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13370
+✅ @preemnik: processed 13369
+✅ @preemnik: processed 13367
+💾 Updated last_id for @preemnik → 13370
+🔎 Fetching @anthabar ...
+✅ @anthabar: processed 4083
+✅ @anthabar: processed 4082
+💾 Updated last_id for @anthabar → 4083
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 105259
+✅ @Gubery: processed 105257
+✅ @Gubery: processed 105254
+✅ @Gubery: processed 105251
+✅ @Gubery: processed 105250
+✅ @Gubery: processed 105249
+✅ @Gubery: processed 105242
+✅ @Gubery: processed 105241
+✅ @Gubery: processed 105238
+💾 Updated last_id for @Gubery → 105259
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37887
+✅ @kursivm: processed 37886
+✅ @kursivm: processed 37885
+✅ @kursivm: processed 37884
+✅ @kursivm: processed 37883
+✅ @kursivm: processed 37882
+✅ @kursivm: processed 37881
+✅ @kursivm: processed 37877
+✅ @kursivm: processed 37873
+✅ @kursivm: processed 37872
+✅ @kursivm: processed 37871
+✅ @kursivm: processed 37870
+✅ @kursivm: processed 37869
+✅ @kursivm: processed 37868
+✅ @kursivm: processed 37862
+✅ @kursivm: processed 37861
+✅ @kursivm: processed 37859
+✅ @kursivm: processed 37858
+✅ @kursivm: processed 37857
+✅ @kursivm: processed 37856
+✅ @kursivm: processed 37855
+✅ @kursivm: processed 37854
+✅ @kursivm: processed 37853
+✅ @kursivm: processed 37851
+✅ @kursivm: processed 37850
+✅ @kursivm: processed 37847
+✅ @kursivm: processed 37846
+✅ @kursivm: processed 37845
+💾 Updated last_id for @kursivm → 37887
+🔎 Fetching @gaziz1984 ...
+✅ @gaziz1984: processed 4973
+✅ @gaziz1984: processed 4972
+✅ @gaziz1984: processed 4971
+✅ @gaziz1984: processed 4970
+💾 Updated last_id for @gaziz1984 → 4973
+🔎 Fetching @armtoday ...
+✅ @armtoday: processed 96549
+✅ @armtoday: processed 96548
+✅ @armtoday: processed 96547
+✅ @armtoday: processed 96546
+✅ @armtoday: processed 96545
+✅ @armtoday: processed 96543
+✅ @armtoday: processed 96542
+✅ @armtoday: processed 96541
+✅ @armtoday: processed 96540
+✅ @armtoday: processed 96539
+✅ @armtoday: processed 96538
+✅ @armtoday: processed 96537
+✅ @armtoday: processed 96536
+✅ @armtoday: processed 96535
+✅ @armtoday: processed 96534
+✅ @armtoday: processed 96533
+✅ @armtoday: processed 96532
+✅ @armtoday: processed 96531
+✅ @armtoday: processed 96530
+✅ @armtoday: processed 96529
+✅ @armtoday: processed 96528
+✅ @armtoday: processed 96527
+✅ @armtoday: processed 96526
+✅ @armtoday: processed 96525
+✅ @armtoday: processed 96524
+✅ @armtoday: processed 96523
+✅ @armtoday: processed 96522
+✅ @armtoday: processed 96521
+✅ @armtoday: processed 96520
+✅ @armtoday: processed 96519
+✅ @armtoday: processed 96518
+✅ @armtoday: processed 96517
+✅ @armtoday: processed 96516
+✅ @armtoday: processed 96515
+✅ @armtoday: processed 96513
+✅ @armtoday: processed 96512
+✅ @armtoday: processed 96511
+✅ @armtoday: processed 96510
+💾 Updated last_id for @armtoday → 96549
+🔎 Fetching @NGnewsgeorgia ...
+✅ @NGnewsgeorgia: processed 26171
+✅ @NGnewsgeorgia: processed 26170
+✅ @NGnewsgeorgia: processed 26169
+✅ @NGnewsgeorgia: processed 26168
+✅ @NGnewsgeorgia: processed 26167
+✅ @NGnewsgeorgia: processed 26166
+✅ @NGnewsgeorgia: processed 26165
+✅ @NGnewsgeorgia: processed 26164
+✅ @NGnewsgeorgia: processed 26161
+✅ @NGnewsgeorgia: processed 26160
+✅ @NGnewsgeorgia: processed 26159
+💾 Updated last_id for @NGnewsgeorgia → 26171
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 347494
+✅ @tass_agency: processed 347493
+✅ @tass_agency: processed 347492
+✅ @tass_agency: processed 347491
+✅ @tass_agency: processed 347490
+✅ @tass_agency: processed 347489
+✅ @tass_agency: processed 347488
+✅ @tass_agency: processed 347487
+✅ @tass_agency: processed 347486
+✅ @tass_agency: processed 347485
+✅ @tass_agency: processed 347484
+✅ @tass_agency: processed 347483
+✅ @tass_agency: processed 347482
+✅ @tass_agency: processed 347481
+✅ @tass_agency: processed 347480
+✅ @tass_agency: processed 347479
+✅ @tass_agency: processed 347478
+✅ @tass_agency: processed 347477
+✅ @tass_agency: processed 347476
+✅ @tass_agency: processed 347475
+✅ @tass_agency: processed 347474
+✅ @tass_agency: processed 347473
+✅ @tass_agency: processed 347472
+✅ @tass_agency: processed 347471
+✅ @tass_agency: processed 347470
+✅ @tass_agency: processed 347469
+✅ @tass_agency: processed 347468
+✅ @tass_agency: processed 347467
+✅ @tass_agency: processed 347466
+✅ @tass_agency: processed 347465
+✅ @tass_agency: processed 347464
+✅ @tass_agency: processed 347463
+✅ @tass_agency: processed 347460
+✅ @tass_agency: processed 347459
+✅ @tass_agency: processed 347458
+✅ @tass_agency: processed 347457
+✅ @tass_agency: processed 347456
+✅ @tass_agency: processed 347455
+✅ @tass_agency: processed 347454
+✅ @tass_agency: processed 347453
+✅ @tass_agency: processed 347452
+✅ @tass_agency: processed 347451
+✅ @tass_agency: processed 347450
+✅ @tass_agency: processed 347449
+✅ @tass_agency: processed 347448
+✅ @tass_agency: processed 347447
+✅ @tass_agency: processed 347446
+✅ @tass_agency: processed 347444
+✅ @tass_agency: processed 347443
+✅ @tass_agency: processed 347442
+✅ @tass_agency: processed 347441
+✅ @tass_agency: processed 347440
+✅ @tass_agency: processed 347439
+✅ @tass_agency: processed 347438
+✅ @tass_agency: processed 347437
+✅ @tass_agency: processed 347436
+✅ @tass_agency: processed 347435
+✅ @tass_agency: processed 347431
+✅ @tass_agency: processed 347430
+✅ @tass_agency: processed 347429
+✅ @tass_agency: processed 347428
+✅ @tass_agency: processed 347427
+✅ @tass_agency: processed 347426
+✅ @tass_agency: processed 347425
+✅ @tass_agency: processed 347424
+✅ @tass_agency: processed 347423
+✅ @tass_agency: processed 347421
+✅ @tass_agency: processed 347420
+✅ @tass_agency: processed 347419
+✅ @tass_agency: processed 347418
+✅ @tass_agency: processed 347417
+✅ @tass_agency: processed 347416
+✅ @tass_agency: processed 347415
+✅ @tass_agency: processed 347414
+✅ @tass_agency: processed 347413
+✅ @tass_agency: processed 347412
+✅ @tass_agency: processed 347411
+✅ @tass_agency: processed 347409
+✅ @tass_agency: processed 347408
+✅ @tass_agency: processed 347407
+✅ @tass_agency: processed 347406
+✅ @tass_agency: processed 347405
+✅ @tass_agency: processed 347404
+✅ @tass_agency: processed 347403
+✅ @tass_agency: processed 347402
+✅ @tass_agency: processed 347401
+✅ @tass_agency: processed 347400
+✅ @tass_agency: processed 347399
+✅ @tass_agency: processed 347398
+✅ @tass_agency: processed 347397
+✅ @tass_agency: processed 347396
+✅ @tass_agency: processed 347395
+💾 Updated last_id for @tass_agency → 347494
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50934
+✅ @bankrollo: processed 50933
+✅ @bankrollo: processed 50932
+✅ @bankrollo: processed 50931
+✅ @bankrollo: processed 50930
+✅ @bankrollo: processed 50929
+✅ @bankrollo: processed 50928
+✅ @bankrollo: processed 50927
+✅ @bankrollo: processed 50926
+✅ @bankrollo: processed 50924
+✅ @bankrollo: processed 50923
+✅ @bankrollo: processed 50922
+✅ @bankrollo: processed 50921
+✅ @bankrollo: processed 50920
+✅ @bankrollo: processed 50919
+✅ @bankrollo: processed 50918
+✅ @bankrollo: processed 50917
+✅ @bankrollo: processed 50914
+✅ @bankrollo: processed 50913
+✅ @bankrollo: processed 50912
+✅ @bankrollo: processed 50911
+✅ @bankrollo: processed 50910
+✅ @bankrollo: processed 50909
+✅ @bankrollo: processed 50908
+✅ @bankrollo: processed 50907
+✅ @bankrollo: processed 50906
+✅ @bankrollo: processed 50905
+✅ @bankrollo: processed 50904
+✅ @bankrollo: processed 50903
+✅ @bankrollo: processed 50902
+✅ @bankrollo: processed 50901
+✅ @bankrollo: processed 50900
+✅ @bankrollo: processed 50899
+✅ @bankrollo: processed 50898
+✅ @bankrollo: processed 50897
+✅ @bankrollo: processed 50896
+✅ @bankrollo: processed 50895
+✅ @bankrollo: processed 50894
+✅ @bankrollo: processed 50893
+✅ @bankrollo: processed 50892
+✅ @bankrollo: processed 50891
+✅ @bankrollo: processed 50890
+✅ @bankrollo: processed 50889
+✅ @bankrollo: processed 50888
+✅ @bankrollo: processed 50887
+✅ @bankrollo: processed 50886
+✅ @bankrollo: processed 50885
+✅ @bankrollo: processed 50884
+✅ @bankrollo: processed 50883
+✅ @bankrollo: processed 50882
+✅ @bankrollo: processed 50881
+✅ @bankrollo: processed 50880
+💾 Updated last_id for @bankrollo → 50934
+🔎 Fetching @ekho_kavkaza ...
+✅ @ekho_kavkaza: processed 22432
+✅ @ekho_kavkaza: processed 22431
+✅ @ekho_kavkaza: processed 22430
+✅ @ekho_kavkaza: processed 22429
+✅ @ekho_kavkaza: processed 22428
+✅ @ekho_kavkaza: processed 22427
+✅ @ekho_kavkaza: processed 22426
+✅ @ekho_kavkaza: processed 22424
+✅ @ekho_kavkaza: processed 22423
+✅ @ekho_kavkaza: processed 22422
+💾 Updated last_id for @ekho_kavkaza → 22432
+🔎 Fetching @istories_media ...
+✅ @istories_media: processed 10736
+✅ @istories_media: processed 10735
+💾 Updated last_id for @istories_media → 10736
+🔎 Fetching @arkadyDubnov ...
+✅ @arkadyDubnov: processed 1952
+✅ @arkadyDubnov: processed 1951
+💾 Updated last_id for @arkadyDubnov → 1952
+🔎 Fetching @preemnik ...
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218940
+✅ @bbbreaking: processed 218939
+✅ @bbbreaking: processed 218938
+✅ @bbbreaking: processed 218937
+✅ @bbbreaking: processed 218936
+✅ @bbbreaking: processed 218935
+✅ @bbbreaking: processed 218934
+✅ @bbbreaking: processed 218933
+✅ @bbbreaking: processed 218932
+✅ @bbbreaking: processed 218931
+✅ @bbbreaking: processed 218930
+✅ @bbbreaking: processed 218929
+✅ @bbbreaking: processed 218928
+✅ @bbbreaking: processed 218927
+✅ @bbbreaking: processed 218926
+✅ @bbbreaking: processed 218925
+✅ @bbbreaking: processed 218924
+✅ @bbbreaking: processed 218923
+✅ @bbbreaking: processed 218921
+✅ @bbbreaking: processed 218920
+✅ @bbbreaking: processed 218919
+✅ @bbbreaking: processed 218917
+✅ @bbbreaking: processed 218916
+✅ @bbbreaking: processed 218915
+✅ @bbbreaking: processed 218914
+✅ @bbbreaking: processed 218913
+✅ @bbbreaking: processed 218912
+✅ @bbbreaking: processed 218911
+✅ @bbbreaking: processed 218910
+✅ @bbbreaking: processed 218909
+✅ @bbbreaking: processed 218908
+✅ @bbbreaking: processed 218907
+✅ @bbbreaking: processed 218906
+✅ @bbbreaking: processed 218905
+✅ @bbbreaking: processed 218904
+✅ @bbbreaking: processed 218903
+✅ @bbbreaking: processed 218902
+✅ @bbbreaking: processed 218901
+✅ @bbbreaking: processed 218900
+✅ @bbbreaking: processed 218899
+✅ @bbbreaking: processed 218898
+✅ @bbbreaking: processed 218897
+✅ @bbbreaking: processed 218896
+✅ @bbbreaking: processed 218895
+✅ @bbbreaking: processed 218894
+✅ @bbbreaking: processed 218893
+✅ @bbbreaking: processed 218891
+✅ @bbbreaking: processed 218890
+✅ @bbbreaking: processed 218889
+✅ @bbbreaking: processed 218888
+✅ @bbbreaking: processed 218887
+✅ @bbbreaking: processed 218886
+✅ @bbbreaking: processed 218885
+✅ @bbbreaking: processed 218884
+✅ @bbbreaking: processed 218883
+✅ @bbbreaking: processed 218882
+✅ @bbbreaking: processed 218881
+✅ @bbbreaking: processed 218880
+✅ @bbbreaking: processed 218879
+✅ @bbbreaking: processed 218878
+✅ @bbbreaking: processed 218876
+✅ @bbbreaking: processed 218875
+✅ @bbbreaking: processed 218874
+✅ @bbbreaking: processed 218873
+✅ @bbbreaking: processed 218872
+✅ @bbbreaking: processed 218871
+💾 Updated last_id for @bbbreaking → 218940
+🔎 Fetching @NGnewsgeorgia ...
+💾 Saved 510 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+🧹 Removed 1 duplicate messages (same URL or identical text).
+✅ PDF saved: 251108MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251108MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com, ara@macro-advisory.com, oop@macro-advisory.com
+===== 2025-11-08 01:37:23  Finished run_daily_news.sh =====
+===== 2025-11-09 02:00:01  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+✅ @arkanewsagency: processed 17419
+✅ @arkanewsagency: processed 17411
+✅ @arkanewsagency: processed 17410
+💾 Updated last_id for @arkanewsagency → 17419
+🔎 Fetching @dashimbayev ...
+✅ @dashimbayev: processed 9218
+✅ @dashimbayev: processed 9217
+✅ @dashimbayev: processed 9216
+💾 Updated last_id for @dashimbayev → 9218
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19093
+✅ @mislinemisli: processed 19092
+💾 Updated last_id for @mislinemisli → 19093
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18684
+✅ @echoonline_news: processed 18682
+✅ @echoonline_news: processed 18679
+✅ @echoonline_news: processed 18678
+✅ @echoonline_news: processed 18677
+✅ @echoonline_news: processed 18676
+✅ @echoonline_news: processed 18675
+✅ @echoonline_news: processed 18674
+✅ @echoonline_news: processed 18669
+✅ @echoonline_news: processed 18668
+✅ @echoonline_news: processed 18666
+✅ @echoonline_news: processed 18665
+✅ @echoonline_news: processed 18664
+✅ @echoonline_news: processed 18663
+✅ @echoonline_news: processed 18662
+✅ @echoonline_news: processed 18661
+💾 Updated last_id for @echoonline_news → 18684
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 110666
+✅ @insiderUKR: processed 110665
+✅ @insiderUKR: processed 110664
+✅ @insiderUKR: processed 110661
+✅ @insiderUKR: processed 110660
+✅ @insiderUKR: processed 110659
+✅ @insiderUKR: processed 110657
+✅ @insiderUKR: processed 110653
+✅ @insiderUKR: processed 110652
+✅ @insiderUKR: processed 110651
+✅ @insiderUKR: processed 110650
+✅ @insiderUKR: processed 110649
+✅ @insiderUKR: processed 110648
+✅ @insiderUKR: processed 110647
+✅ @insiderUKR: processed 110645
+✅ @insiderUKR: processed 110644
+✅ @insiderUKR: processed 110643
+✅ @insiderUKR: processed 110642
+✅ @insiderUKR: processed 110641
+✅ @insiderUKR: processed 110640
+✅ @insiderUKR: processed 110639
+✅ @insiderUKR: processed 110636
+✅ @insiderUKR: processed 110635
+✅ @insiderUKR: processed 110634
+✅ @insiderUKR: processed 110633
+✅ @insiderUKR: processed 110628
+💾 Updated last_id for @insiderUKR → 110666
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65431
+✅ @russicaRU: processed 65430
+✅ @russicaRU: processed 65427
+✅ @russicaRU: processed 65424
+✅ @russicaRU: processed 65423
+💾 Updated last_id for @russicaRU → 65431
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 86614
+✅ @bagramyan26: processed 86613
+✅ @bagramyan26: processed 86607
+✅ @bagramyan26: processed 86605
+✅ @bagramyan26: processed 86603
+✅ @bagramyan26: processed 86601
+✅ @bagramyan26: processed 86600
+✅ @bagramyan26: processed 86599
+✅ @bagramyan26: processed 86597
+✅ @bagramyan26: processed 86596
+✅ @bagramyan26: processed 86595
+✅ @bagramyan26: processed 86594
+✅ @bagramyan26: processed 86593
+✅ @bagramyan26: processed 86592
+✅ @bagramyan26: processed 86591
+✅ @bagramyan26: processed 86587
+✅ @bagramyan26: processed 86586
+✅ @bagramyan26: processed 86585
+✅ @bagramyan26: processed 86584
+✅ @bagramyan26: processed 86582
+💾 Updated last_id for @bagramyan26 → 86614
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16303
+✅ @daryo_global: processed 16302
+✅ @daryo_global: processed 16301
+💾 Updated last_id for @daryo_global → 16303
+🔎 Fetching @kompromat_za ...
+✅ @kompromat_za: processed 5310
+💾 Updated last_id for @kompromat_za → 5310
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13375
+✅ @preemnik: processed 13373
+✅ @preemnik: processed 13372
+💾 Updated last_id for @preemnik → 13375
+🔎 Fetching @anthabar ...
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 105284
+✅ @Gubery: processed 105283
+✅ @Gubery: processed 105279
+✅ @Gubery: processed 105277
+✅ @Gubery: processed 105276
+✅ @Gubery: processed 105275
+✅ @Gubery: processed 105274
+💾 Updated last_id for @Gubery → 105284
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37903
+✅ @kursivm: processed 37902
+✅ @kursivm: processed 37901
+✅ @kursivm: processed 37900
+✅ @kursivm: processed 37895
+✅ @kursivm: processed 37894
+✅ @kursivm: processed 37892
+✅ @kursivm: processed 37891
+✅ @kursivm: processed 37889
+✅ @kursivm: processed 37888
+💾 Updated last_id for @kursivm → 37903
+🔎 Fetching @gaziz1984 ...
+✅ @gaziz1984: processed 4974
+💾 Updated last_id for @gaziz1984 → 4974
+🔎 Fetching @armtoday ...
+✅ @armtoday: processed 96566
+✅ @armtoday: processed 96565
+✅ @armtoday: processed 96563
+✅ @armtoday: processed 96562
+✅ @armtoday: processed 96561
+✅ @armtoday: processed 96560
+✅ @armtoday: processed 96559
+✅ @armtoday: processed 96558
+✅ @armtoday: processed 96557
+✅ @armtoday: processed 96556
+✅ @armtoday: processed 96555
+✅ @armtoday: processed 96554
+✅ @armtoday: processed 96553
+✅ @armtoday: processed 96551
+✅ @armtoday: processed 96550
+💾 Updated last_id for @armtoday → 96566
+🔎 Fetching @NGnewsgeorgia ...
+✅ @NGnewsgeorgia: processed 26177
+✅ @NGnewsgeorgia: processed 26176
+✅ @NGnewsgeorgia: processed 26174
+✅ @NGnewsgeorgia: processed 26172
+💾 Updated last_id for @NGnewsgeorgia → 26177
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 347593
+✅ @tass_agency: processed 347592
+✅ @tass_agency: processed 347591
+✅ @tass_agency: processed 347590
+✅ @tass_agency: processed 347589
+✅ @tass_agency: processed 347588
+✅ @tass_agency: processed 347586
+✅ @tass_agency: processed 347585
+✅ @tass_agency: processed 347584
+✅ @tass_agency: processed 347583
+✅ @tass_agency: processed 347582
+✅ @tass_agency: processed 347581
+✅ @tass_agency: processed 347579
+✅ @tass_agency: processed 347578
+✅ @tass_agency: processed 347577
+✅ @tass_agency: processed 347576
+✅ @tass_agency: processed 347575
+✅ @tass_agency: processed 347574
+✅ @tass_agency: processed 347573
+✅ @tass_agency: processed 347572
+✅ @tass_agency: processed 347571
+✅ @tass_agency: processed 347561
+✅ @tass_agency: processed 347560
+✅ @tass_agency: processed 347559
+✅ @tass_agency: processed 347558
+✅ @tass_agency: processed 347557
+✅ @tass_agency: processed 347556
+✅ @tass_agency: processed 347555
+✅ @tass_agency: processed 347554
+✅ @tass_agency: processed 347548
+✅ @tass_agency: processed 347547
+✅ @tass_agency: processed 347546
+✅ @tass_agency: processed 347545
+✅ @tass_agency: processed 347544
+✅ @tass_agency: processed 347543
+✅ @tass_agency: processed 347542
+✅ @tass_agency: processed 347540
+✅ @tass_agency: processed 347538
+✅ @tass_agency: processed 347537
+✅ @tass_agency: processed 347536
+✅ @tass_agency: processed 347535
+✅ @tass_agency: processed 347534
+✅ @tass_agency: processed 347532
+✅ @tass_agency: processed 347531
+✅ @tass_agency: processed 347529
+✅ @tass_agency: processed 347528
+✅ @tass_agency: processed 347527
+✅ @tass_agency: processed 347526
+✅ @tass_agency: processed 347525
+✅ @tass_agency: processed 347524
+✅ @tass_agency: processed 347523
+✅ @tass_agency: processed 347522
+✅ @tass_agency: processed 347521
+✅ @tass_agency: processed 347520
+✅ @tass_agency: processed 347519
+✅ @tass_agency: processed 347518
+✅ @tass_agency: processed 347517
+✅ @tass_agency: processed 347516
+✅ @tass_agency: processed 347515
+✅ @tass_agency: processed 347514
+✅ @tass_agency: processed 347513
+✅ @tass_agency: processed 347512
+✅ @tass_agency: processed 347511
+✅ @tass_agency: processed 347510
+✅ @tass_agency: processed 347507
+✅ @tass_agency: processed 347506
+✅ @tass_agency: processed 347505
+✅ @tass_agency: processed 347503
+✅ @tass_agency: processed 347502
+✅ @tass_agency: processed 347501
+✅ @tass_agency: processed 347500
+✅ @tass_agency: processed 347499
+✅ @tass_agency: processed 347498
+✅ @tass_agency: processed 347497
+✅ @tass_agency: processed 347496
+✅ @tass_agency: processed 347495
+💾 Updated last_id for @tass_agency → 347593
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 50955
+✅ @bankrollo: processed 50954
+✅ @bankrollo: processed 50953
+✅ @bankrollo: processed 50952
+✅ @bankrollo: processed 50951
+✅ @bankrollo: processed 50949
+✅ @bankrollo: processed 50948
+✅ @bankrollo: processed 50947
+✅ @bankrollo: processed 50946
+✅ @bankrollo: processed 50945
+✅ @bankrollo: processed 50944
+✅ @bankrollo: processed 50943
+✅ @bankrollo: processed 50942
+✅ @bankrollo: processed 50941
+✅ @bankrollo: processed 50940
+✅ @bankrollo: processed 50939
+✅ @bankrollo: processed 50938
+✅ @bankrollo: processed 50937
+✅ @bankrollo: processed 50936
+✅ @bankrollo: processed 50935
+💾 Updated last_id for @bankrollo → 50955
+🔎 Fetching @ekho_kavkaza ...
+✅ @ekho_kavkaza: processed 22436
+✅ @ekho_kavkaza: processed 22435
+✅ @ekho_kavkaza: processed 22434
+✅ @ekho_kavkaza: processed 22433
+💾 Updated last_id for @ekho_kavkaza → 22436
+🔎 Fetching @istories_media ...
+✅ @istories_media: processed 10737
+💾 Updated last_id for @istories_media → 10737
+🔎 Fetching @arkadyDubnov ...
+✅ @arkadyDubnov: processed 1955
+💾 Updated last_id for @arkadyDubnov → 1955
+🔎 Fetching @preemnik ...
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 218979
+✅ @bbbreaking: processed 218977
+✅ @bbbreaking: processed 218976
+✅ @bbbreaking: processed 218975
+✅ @bbbreaking: processed 218974
+✅ @bbbreaking: processed 218973
+✅ @bbbreaking: processed 218972
+✅ @bbbreaking: processed 218970
+✅ @bbbreaking: processed 218969
+✅ @bbbreaking: processed 218968
+✅ @bbbreaking: processed 218967
+✅ @bbbreaking: processed 218966
+✅ @bbbreaking: processed 218965
+✅ @bbbreaking: processed 218963
+✅ @bbbreaking: processed 218962
+✅ @bbbreaking: processed 218961
+✅ @bbbreaking: processed 218960
+✅ @bbbreaking: processed 218959
+✅ @bbbreaking: processed 218958
+✅ @bbbreaking: processed 218956
+✅ @bbbreaking: processed 218955
+✅ @bbbreaking: processed 218954
+✅ @bbbreaking: processed 218953
+✅ @bbbreaking: processed 218952
+✅ @bbbreaking: processed 218951
+✅ @bbbreaking: processed 218946
+✅ @bbbreaking: processed 218945
+✅ @bbbreaking: processed 218944
+✅ @bbbreaking: processed 218943
+✅ @bbbreaking: processed 218942
+✅ @bbbreaking: processed 218941
+💾 Updated last_id for @bbbreaking → 218979
+🔎 Fetching @NGnewsgeorgia ...
+💾 Saved 252 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+🧹 Removed 1 duplicate messages (same URL or identical text).
+✅ PDF saved: 251109MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251109MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com, ara@macro-advisory.com, oop@macro-advisory.com
+===== 2025-11-09 01:20:23  Finished run_daily_news.sh =====
+===== 2025-11-11 02:00:02  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+🔎 Fetching @arkanewsagency ...
+✅ @arkanewsagency: processed 17434
+✅ @arkanewsagency: processed 17433
+✅ @arkanewsagency: processed 17432
+✅ @arkanewsagency: processed 17431
+✅ @arkanewsagency: processed 17430
+✅ @arkanewsagency: processed 17428
+✅ @arkanewsagency: processed 17427
+✅ @arkanewsagency: processed 17426
+✅ @arkanewsagency: processed 17425
+✅ @arkanewsagency: processed 17424
+✅ @arkanewsagency: processed 17423
+✅ @arkanewsagency: processed 17422
+✅ @arkanewsagency: processed 17420
+💾 Updated last_id for @arkanewsagency → 17434
+🔎 Fetching @dashimbayev ...
+✅ @dashimbayev: processed 9224
+✅ @dashimbayev: processed 9223
+✅ @dashimbayev: processed 9222
+✅ @dashimbayev: processed 9221
+✅ @dashimbayev: processed 9220
+✅ @dashimbayev: processed 9219
+💾 Updated last_id for @dashimbayev → 9224
+🔎 Fetching @mislinemisli ...
+✅ @mislinemisli: processed 19101
+✅ @mislinemisli: processed 19100
+✅ @mislinemisli: processed 19098
+✅ @mislinemisli: processed 19097
+✅ @mislinemisli: processed 19096
+✅ @mislinemisli: processed 19095
+✅ @mislinemisli: processed 19094
+💾 Updated last_id for @mislinemisli → 19101
+🔎 Fetching @echoonline_news ...
+✅ @echoonline_news: processed 18753
+✅ @echoonline_news: processed 18752
+✅ @echoonline_news: processed 18751
+✅ @echoonline_news: processed 18749
+✅ @echoonline_news: processed 18747
+✅ @echoonline_news: processed 18746
+✅ @echoonline_news: processed 18744
+✅ @echoonline_news: processed 18743
+✅ @echoonline_news: processed 18742
+✅ @echoonline_news: processed 18741
+✅ @echoonline_news: processed 18740
+✅ @echoonline_news: processed 18739
+✅ @echoonline_news: processed 18736
+✅ @echoonline_news: processed 18735
+✅ @echoonline_news: processed 18734
+✅ @echoonline_news: processed 18733
+✅ @echoonline_news: processed 18732
+✅ @echoonline_news: processed 18731
+✅ @echoonline_news: processed 18730
+✅ @echoonline_news: processed 18729
+✅ @echoonline_news: processed 18728
+✅ @echoonline_news: processed 18727
+✅ @echoonline_news: processed 18726
+✅ @echoonline_news: processed 18725
+✅ @echoonline_news: processed 18724
+✅ @echoonline_news: processed 18723
+✅ @echoonline_news: processed 18721
+✅ @echoonline_news: processed 18720
+✅ @echoonline_news: processed 18715
+✅ @echoonline_news: processed 18710
+✅ @echoonline_news: processed 18709
+✅ @echoonline_news: processed 18708
+✅ @echoonline_news: processed 18707
+✅ @echoonline_news: processed 18706
+✅ @echoonline_news: processed 18705
+✅ @echoonline_news: processed 18694
+✅ @echoonline_news: processed 18690
+✅ @echoonline_news: processed 18689
+✅ @echoonline_news: processed 18688
+✅ @echoonline_news: processed 18686
+💾 Updated last_id for @echoonline_news → 18753
+🔎 Fetching @insiderUKR ...
+✅ @insiderUKR: processed 110762
+✅ @insiderUKR: processed 110761
+✅ @insiderUKR: processed 110760
+✅ @insiderUKR: processed 110758
+✅ @insiderUKR: processed 110757
+✅ @insiderUKR: processed 110756
+✅ @insiderUKR: processed 110755
+✅ @insiderUKR: processed 110754
+✅ @insiderUKR: processed 110751
+✅ @insiderUKR: processed 110748
+✅ @insiderUKR: processed 110747
+✅ @insiderUKR: processed 110746
+✅ @insiderUKR: processed 110744
+✅ @insiderUKR: processed 110743
+✅ @insiderUKR: processed 110740
+✅ @insiderUKR: processed 110739
+✅ @insiderUKR: processed 110738
+✅ @insiderUKR: processed 110737
+✅ @insiderUKR: processed 110735
+✅ @insiderUKR: processed 110732
+✅ @insiderUKR: processed 110731
+✅ @insiderUKR: processed 110730
+✅ @insiderUKR: processed 110729
+✅ @insiderUKR: processed 110728
+✅ @insiderUKR: processed 110727
+✅ @insiderUKR: processed 110726
+✅ @insiderUKR: processed 110725
+✅ @insiderUKR: processed 110722
+✅ @insiderUKR: processed 110716
+✅ @insiderUKR: processed 110715
+✅ @insiderUKR: processed 110714
+✅ @insiderUKR: processed 110713
+✅ @insiderUKR: processed 110712
+✅ @insiderUKR: processed 110710
+✅ @insiderUKR: processed 110709
+✅ @insiderUKR: processed 110708
+✅ @insiderUKR: processed 110707
+✅ @insiderUKR: processed 110706
+✅ @insiderUKR: processed 110700
+✅ @insiderUKR: processed 110699
+✅ @insiderUKR: processed 110697
+✅ @insiderUKR: processed 110696
+✅ @insiderUKR: processed 110693
+✅ @insiderUKR: processed 110692
+✅ @insiderUKR: processed 110691
+✅ @insiderUKR: processed 110689
+✅ @insiderUKR: processed 110688
+✅ @insiderUKR: processed 110683
+✅ @insiderUKR: processed 110682
+✅ @insiderUKR: processed 110681
+✅ @insiderUKR: processed 110679
+✅ @insiderUKR: processed 110676
+✅ @insiderUKR: processed 110672
+✅ @insiderUKR: processed 110671
+✅ @insiderUKR: processed 110667
+💾 Updated last_id for @insiderUKR → 110762
+🔎 Fetching @rucriminalinfo ...
+🔎 Fetching @russicaRU ...
+✅ @russicaRU: processed 65463
+✅ @russicaRU: processed 65462
+✅ @russicaRU: processed 65461
+✅ @russicaRU: processed 65455
+✅ @russicaRU: processed 65450
+✅ @russicaRU: processed 65447
+✅ @russicaRU: processed 65445
+✅ @russicaRU: processed 65444
+✅ @russicaRU: processed 65443
+💾 Updated last_id for @russicaRU → 65463
+🔎 Fetching @bagramyan26 ...
+✅ @bagramyan26: processed 86673
+✅ @bagramyan26: processed 86672
+✅ @bagramyan26: processed 86671
+✅ @bagramyan26: processed 86670
+✅ @bagramyan26: processed 86669
+✅ @bagramyan26: processed 86668
+✅ @bagramyan26: processed 86667
+✅ @bagramyan26: processed 86666
+✅ @bagramyan26: processed 86665
+✅ @bagramyan26: processed 86663
+✅ @bagramyan26: processed 86661
+✅ @bagramyan26: processed 86658
+✅ @bagramyan26: processed 86655
+✅ @bagramyan26: processed 86653
+✅ @bagramyan26: processed 86652
+✅ @bagramyan26: processed 86649
+✅ @bagramyan26: processed 86648
+✅ @bagramyan26: processed 86647
+✅ @bagramyan26: processed 86646
+✅ @bagramyan26: processed 86645
+✅ @bagramyan26: processed 86642
+✅ @bagramyan26: processed 86641
+✅ @bagramyan26: processed 86640
+✅ @bagramyan26: processed 86637
+✅ @bagramyan26: processed 86636
+✅ @bagramyan26: processed 86635
+✅ @bagramyan26: processed 86634
+✅ @bagramyan26: processed 86633
+✅ @bagramyan26: processed 86632
+✅ @bagramyan26: processed 86631
+✅ @bagramyan26: processed 86630
+✅ @bagramyan26: processed 86629
+✅ @bagramyan26: processed 86628
+✅ @bagramyan26: processed 86627
+✅ @bagramyan26: processed 86626
+✅ @bagramyan26: processed 86625
+✅ @bagramyan26: processed 86624
+✅ @bagramyan26: processed 86623
+✅ @bagramyan26: processed 86622
+✅ @bagramyan26: processed 86621
+✅ @bagramyan26: processed 86620
+✅ @bagramyan26: processed 86619
+✅ @bagramyan26: processed 86618
+💾 Updated last_id for @bagramyan26 → 86673
+🔎 Fetching @daryo_global ...
+✅ @daryo_global: processed 16313
+✅ @daryo_global: processed 16312
+✅ @daryo_global: processed 16311
+✅ @daryo_global: processed 16310
+✅ @daryo_global: processed 16309
+✅ @daryo_global: processed 16308
+✅ @daryo_global: processed 16307
+✅ @daryo_global: processed 16306
+✅ @daryo_global: processed 16305
+✅ @daryo_global: processed 16304
+💾 Updated last_id for @daryo_global → 16313
+🔎 Fetching @kompromat_za ...
+✅ @kompromat_za: processed 5316
+✅ @kompromat_za: processed 5314
+✅ @kompromat_za: processed 5313
+✅ @kompromat_za: processed 5312
+✅ @kompromat_za: processed 5311
+💾 Updated last_id for @kompromat_za → 5316
+🔎 Fetching @preemnik ...
+✅ @preemnik: processed 13395
+✅ @preemnik: processed 13388
+✅ @preemnik: processed 13387
+✅ @preemnik: processed 13382
+✅ @preemnik: processed 13381
+✅ @preemnik: processed 13378
+💾 Updated last_id for @preemnik → 13395
+🔎 Fetching @anthabar ...
+✅ @anthabar: processed 4084
+💾 Updated last_id for @anthabar → 4084
+🔎 Fetching @stanovaya ...
+🔎 Fetching @Gubery ...
+✅ @Gubery: processed 105341
+✅ @Gubery: processed 105340
+✅ @Gubery: processed 105339
+✅ @Gubery: processed 105332
+✅ @Gubery: processed 105322
+✅ @Gubery: processed 105309
+✅ @Gubery: processed 105306
+✅ @Gubery: processed 105304
+✅ @Gubery: processed 105303
+✅ @Gubery: processed 105302
+✅ @Gubery: processed 105300
+✅ @Gubery: processed 105299
+✅ @Gubery: processed 105298
+✅ @Gubery: processed 105286
+💾 Updated last_id for @Gubery → 105341
+🔎 Fetching @kursivm ...
+✅ @kursivm: processed 37959
+✅ @kursivm: processed 37958
+✅ @kursivm: processed 37957
+✅ @kursivm: processed 37955
+✅ @kursivm: processed 37954
+✅ @kursivm: processed 37953
+✅ @kursivm: processed 37952
+✅ @kursivm: processed 37951
+✅ @kursivm: processed 37945
+✅ @kursivm: processed 37944
+✅ @kursivm: processed 37943
+✅ @kursivm: processed 37942
+✅ @kursivm: processed 37941
+✅ @kursivm: processed 37940
+✅ @kursivm: processed 37939
+✅ @kursivm: processed 37938
+✅ @kursivm: processed 37937
+✅ @kursivm: processed 37936
+✅ @kursivm: processed 37935
+✅ @kursivm: processed 37931
+✅ @kursivm: processed 37930
+✅ @kursivm: processed 37929
+✅ @kursivm: processed 37927
+✅ @kursivm: processed 37926
+✅ @kursivm: processed 37924
+✅ @kursivm: processed 37920
+✅ @kursivm: processed 37919
+✅ @kursivm: processed 37918
+✅ @kursivm: processed 37916
+✅ @kursivm: processed 37915
+✅ @kursivm: processed 37914
+✅ @kursivm: processed 37913
+✅ @kursivm: processed 37912
+✅ @kursivm: processed 37911
+✅ @kursivm: processed 37910
+✅ @kursivm: processed 37909
+✅ @kursivm: processed 37908
+✅ @kursivm: processed 37907
+✅ @kursivm: processed 37906
+✅ @kursivm: processed 37905
+✅ @kursivm: processed 37904
+💾 Updated last_id for @kursivm → 37959
+🔎 Fetching @gaziz1984 ...
+✅ @gaziz1984: processed 4976
+✅ @gaziz1984: processed 4975
+💾 Updated last_id for @gaziz1984 → 4976
+🔎 Fetching @armtoday ...
+✅ @armtoday: processed 96622
+✅ @armtoday: processed 96621
+✅ @armtoday: processed 96620
+✅ @armtoday: processed 96618
+✅ @armtoday: processed 96617
+✅ @armtoday: processed 96616
+✅ @armtoday: processed 96614
+✅ @armtoday: processed 96613
+✅ @armtoday: processed 96612
+✅ @armtoday: processed 96611
+✅ @armtoday: processed 96610
+✅ @armtoday: processed 96609
+✅ @armtoday: processed 96608
+✅ @armtoday: processed 96607
+✅ @armtoday: processed 96606
+✅ @armtoday: processed 96605
+✅ @armtoday: processed 96604
+✅ @armtoday: processed 96603
+✅ @armtoday: processed 96602
+✅ @armtoday: processed 96601
+✅ @armtoday: processed 96600
+✅ @armtoday: processed 96599
+✅ @armtoday: processed 96598
+✅ @armtoday: processed 96597
+✅ @armtoday: processed 96596
+✅ @armtoday: processed 96595
+✅ @armtoday: processed 96594
+✅ @armtoday: processed 96593
+✅ @armtoday: processed 96592
+✅ @armtoday: processed 96589
+✅ @armtoday: processed 96587
+✅ @armtoday: processed 96586
+✅ @armtoday: processed 96585
+✅ @armtoday: processed 96584
+✅ @armtoday: processed 96583
+✅ @armtoday: processed 96582
+✅ @armtoday: processed 96581
+✅ @armtoday: processed 96580
+✅ @armtoday: processed 96577
+✅ @armtoday: processed 96576
+✅ @armtoday: processed 96575
+✅ @armtoday: processed 96574
+✅ @armtoday: processed 96573
+✅ @armtoday: processed 96572
+✅ @armtoday: processed 96571
+✅ @armtoday: processed 96570
+✅ @armtoday: processed 96569
+✅ @armtoday: processed 96568
+💾 Updated last_id for @armtoday → 96622
+🔎 Fetching @NGnewsgeorgia ...
+✅ @NGnewsgeorgia: processed 26189
+✅ @NGnewsgeorgia: processed 26188
+✅ @NGnewsgeorgia: processed 26187
+✅ @NGnewsgeorgia: processed 26186
+✅ @NGnewsgeorgia: processed 26183
+✅ @NGnewsgeorgia: processed 26182
+✅ @NGnewsgeorgia: processed 26181
+✅ @NGnewsgeorgia: processed 26180
+✅ @NGnewsgeorgia: processed 26179
+✅ @NGnewsgeorgia: processed 26178
+💾 Updated last_id for @NGnewsgeorgia → 26189
+🔎 Fetching @tass_agency ...
+✅ @tass_agency: processed 347835
+✅ @tass_agency: processed 347834
+✅ @tass_agency: processed 347833
+✅ @tass_agency: processed 347832
+✅ @tass_agency: processed 347831
+✅ @tass_agency: processed 347830
+✅ @tass_agency: processed 347829
+✅ @tass_agency: processed 347828
+✅ @tass_agency: processed 347827
+✅ @tass_agency: processed 347826
+✅ @tass_agency: processed 347825
+✅ @tass_agency: processed 347824
+✅ @tass_agency: processed 347823
+✅ @tass_agency: processed 347822
+✅ @tass_agency: processed 347821
+✅ @tass_agency: processed 347820
+✅ @tass_agency: processed 347819
+✅ @tass_agency: processed 347818
+✅ @tass_agency: processed 347817
+✅ @tass_agency: processed 347816
+✅ @tass_agency: processed 347815
+✅ @tass_agency: processed 347814
+✅ @tass_agency: processed 347813
+✅ @tass_agency: processed 347812
+✅ @tass_agency: processed 347811
+✅ @tass_agency: processed 347810
+✅ @tass_agency: processed 347809
+✅ @tass_agency: processed 347808
+✅ @tass_agency: processed 347807
+✅ @tass_agency: processed 347806
+✅ @tass_agency: processed 347805
+✅ @tass_agency: processed 347800
+✅ @tass_agency: processed 347799
+✅ @tass_agency: processed 347798
+✅ @tass_agency: processed 347797
+✅ @tass_agency: processed 347796
+✅ @tass_agency: processed 347795
+✅ @tass_agency: processed 347794
+✅ @tass_agency: processed 347793
+✅ @tass_agency: processed 347792
+✅ @tass_agency: processed 347791
+✅ @tass_agency: processed 347790
+✅ @tass_agency: processed 347789
+✅ @tass_agency: processed 347788
+✅ @tass_agency: processed 347787
+✅ @tass_agency: processed 347786
+✅ @tass_agency: processed 347785
+✅ @tass_agency: processed 347784
+✅ @tass_agency: processed 347783
+✅ @tass_agency: processed 347782
+✅ @tass_agency: processed 347781
+✅ @tass_agency: processed 347780
+✅ @tass_agency: processed 347779
+✅ @tass_agency: processed 347778
+✅ @tass_agency: processed 347777
+✅ @tass_agency: processed 347776
+✅ @tass_agency: processed 347775
+✅ @tass_agency: processed 347774
+✅ @tass_agency: processed 347773
+✅ @tass_agency: processed 347772
+✅ @tass_agency: processed 347771
+✅ @tass_agency: processed 347770
+✅ @tass_agency: processed 347769
+✅ @tass_agency: processed 347768
+✅ @tass_agency: processed 347767
+✅ @tass_agency: processed 347766
+✅ @tass_agency: processed 347765
+✅ @tass_agency: processed 347764
+✅ @tass_agency: processed 347763
+✅ @tass_agency: processed 347761
+✅ @tass_agency: processed 347760
+✅ @tass_agency: processed 347759
+✅ @tass_agency: processed 347758
+✅ @tass_agency: processed 347757
+✅ @tass_agency: processed 347756
+✅ @tass_agency: processed 347749
+✅ @tass_agency: processed 347748
+✅ @tass_agency: processed 347747
+✅ @tass_agency: processed 347746
+✅ @tass_agency: processed 347745
+✅ @tass_agency: processed 347744
+✅ @tass_agency: processed 347743
+✅ @tass_agency: processed 347742
+✅ @tass_agency: processed 347741
+✅ @tass_agency: processed 347740
+✅ @tass_agency: processed 347739
+✅ @tass_agency: processed 347738
+✅ @tass_agency: processed 347737
+✅ @tass_agency: processed 347736
+💾 Updated last_id for @tass_agency → 347835
+🔎 Fetching @bankrollo ...
+✅ @bankrollo: processed 51021
+✅ @bankrollo: processed 51020
+✅ @bankrollo: processed 51019
+✅ @bankrollo: processed 51018
+✅ @bankrollo: processed 51017
+✅ @bankrollo: processed 51016
+✅ @bankrollo: processed 51015
+✅ @bankrollo: processed 51013
+✅ @bankrollo: processed 51012
+✅ @bankrollo: processed 51010
+✅ @bankrollo: processed 51009
+✅ @bankrollo: processed 51008
+✅ @bankrollo: processed 51007
+✅ @bankrollo: processed 51006
+✅ @bankrollo: processed 51005
+✅ @bankrollo: processed 51004
+✅ @bankrollo: processed 51003
+✅ @bankrollo: processed 51002
+✅ @bankrollo: processed 51001
+✅ @bankrollo: processed 51000
+✅ @bankrollo: processed 50999
+✅ @bankrollo: processed 50998
+✅ @bankrollo: processed 50997
+✅ @bankrollo: processed 50996
+✅ @bankrollo: processed 50995
+✅ @bankrollo: processed 50994
+✅ @bankrollo: processed 50993
+✅ @bankrollo: processed 50992
+✅ @bankrollo: processed 50991
+✅ @bankrollo: processed 50989
+✅ @bankrollo: processed 50988
+✅ @bankrollo: processed 50987
+✅ @bankrollo: processed 50986
+✅ @bankrollo: processed 50985
+✅ @bankrollo: processed 50984
+✅ @bankrollo: processed 50983
+✅ @bankrollo: processed 50982
+✅ @bankrollo: processed 50980
+✅ @bankrollo: processed 50979
+✅ @bankrollo: processed 50978
+✅ @bankrollo: processed 50977
+✅ @bankrollo: processed 50976
+✅ @bankrollo: processed 50975
+✅ @bankrollo: processed 50974
+✅ @bankrollo: processed 50973
+✅ @bankrollo: processed 50972
+✅ @bankrollo: processed 50971
+✅ @bankrollo: processed 50970
+✅ @bankrollo: processed 50969
+✅ @bankrollo: processed 50968
+✅ @bankrollo: processed 50967
+✅ @bankrollo: processed 50966
+✅ @bankrollo: processed 50965
+✅ @bankrollo: processed 50964
+✅ @bankrollo: processed 50963
+✅ @bankrollo: processed 50962
+✅ @bankrollo: processed 50961
+✅ @bankrollo: processed 50960
+✅ @bankrollo: processed 50958
+✅ @bankrollo: processed 50957
+✅ @bankrollo: processed 50956
+💾 Updated last_id for @bankrollo → 51021
+🔎 Fetching @ekho_kavkaza ...
+✅ @ekho_kavkaza: processed 22447
+✅ @ekho_kavkaza: processed 22445
+✅ @ekho_kavkaza: processed 22444
+✅ @ekho_kavkaza: processed 22443
+✅ @ekho_kavkaza: processed 22442
+✅ @ekho_kavkaza: processed 22441
+✅ @ekho_kavkaza: processed 22440
+✅ @ekho_kavkaza: processed 22439
+✅ @ekho_kavkaza: processed 22437
+💾 Updated last_id for @ekho_kavkaza → 22447
+🔎 Fetching @istories_media ...
+✅ @istories_media: processed 10739
+💾 Updated last_id for @istories_media → 10739
+🔎 Fetching @arkadyDubnov ...
+🔎 Fetching @preemnik ...
+🔎 Fetching @bbbreaking ...
+✅ @bbbreaking: processed 219084
+✅ @bbbreaking: processed 219083
+✅ @bbbreaking: processed 219082
+✅ @bbbreaking: processed 219081
+✅ @bbbreaking: processed 219080
+✅ @bbbreaking: processed 219079
+✅ @bbbreaking: processed 219078
+✅ @bbbreaking: processed 219077
+✅ @bbbreaking: processed 219076
+✅ @bbbreaking: processed 219075
+✅ @bbbreaking: processed 219074
+✅ @bbbreaking: processed 219073
+✅ @bbbreaking: processed 219072
+✅ @bbbreaking: processed 219071
+✅ @bbbreaking: processed 219070
+✅ @bbbreaking: processed 219069
+✅ @bbbreaking: processed 219068
+✅ @bbbreaking: processed 219067
+✅ @bbbreaking: processed 219066
+✅ @bbbreaking: processed 219065
+✅ @bbbreaking: processed 219064
+✅ @bbbreaking: processed 219063
+✅ @bbbreaking: processed 219062
+✅ @bbbreaking: processed 219061
+✅ @bbbreaking: processed 219060
+✅ @bbbreaking: processed 219053
+✅ @bbbreaking: processed 219052
+✅ @bbbreaking: processed 219051
+✅ @bbbreaking: processed 219050
+✅ @bbbreaking: processed 219048
+✅ @bbbreaking: processed 219047
+✅ @bbbreaking: processed 219046
+✅ @bbbreaking: processed 219045
+✅ @bbbreaking: processed 219044
+✅ @bbbreaking: processed 219043
+✅ @bbbreaking: processed 219042
+✅ @bbbreaking: processed 219041
+✅ @bbbreaking: processed 219040
+✅ @bbbreaking: processed 219038
+✅ @bbbreaking: processed 219037
+✅ @bbbreaking: processed 219036
+✅ @bbbreaking: processed 219035
+✅ @bbbreaking: processed 219034
+✅ @bbbreaking: processed 219033
+✅ @bbbreaking: processed 219032
+✅ @bbbreaking: processed 219031
+✅ @bbbreaking: processed 219030
+✅ @bbbreaking: processed 219029
+✅ @bbbreaking: processed 219028
+✅ @bbbreaking: processed 219026
+✅ @bbbreaking: processed 219025
+✅ @bbbreaking: processed 219024
+✅ @bbbreaking: processed 219023
+✅ @bbbreaking: processed 219022
+✅ @bbbreaking: processed 219021
+✅ @bbbreaking: processed 219019
+✅ @bbbreaking: processed 219018
+✅ @bbbreaking: processed 219017
+✅ @bbbreaking: processed 219016
+✅ @bbbreaking: processed 219015
+✅ @bbbreaking: processed 219014
+✅ @bbbreaking: processed 219013
+✅ @bbbreaking: processed 219012
+✅ @bbbreaking: processed 219011
+✅ @bbbreaking: processed 219010
+✅ @bbbreaking: processed 219009
+✅ @bbbreaking: processed 219008
+✅ @bbbreaking: processed 219007
+✅ @bbbreaking: processed 219006
+✅ @bbbreaking: processed 219005
+✅ @bbbreaking: processed 219004
+✅ @bbbreaking: processed 219003
+✅ @bbbreaking: processed 219002
+✅ @bbbreaking: processed 219001
+✅ @bbbreaking: processed 218998
+✅ @bbbreaking: processed 218997
+✅ @bbbreaking: processed 218996
+✅ @bbbreaking: processed 218995
+✅ @bbbreaking: processed 218994
+✅ @bbbreaking: processed 218993
+✅ @bbbreaking: processed 218992
+✅ @bbbreaking: processed 218991
+✅ @bbbreaking: processed 218990
+✅ @bbbreaking: processed 218989
+✅ @bbbreaking: processed 218988
+✅ @bbbreaking: processed 218987
+✅ @bbbreaking: processed 218986
+✅ @bbbreaking: processed 218985
+💾 Updated last_id for @bbbreaking → 219084
+🔎 Fetching @NGnewsgeorgia ...
+💾 Saved 558 messages to filtered_translated_macro.csv
+Running Telegram_NewsSummary_toPDF.py ...
+🧹 Removed 0 duplicate messages (same URL or identical text).
+✅ PDF saved: 251111MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251111MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com, ara@macro-advisory.com, oop@macro-advisory.com
+===== 2025-11-11 02:48:25  Finished run_daily_news.sh =====
+===== 2025-11-12 02:00:01  Starting run_daily_news.sh =====
+PROJECT_DIR: /Users/tomadshead/telegramdaily
+LOG_DIR: /Users/tomadshead/logs/telegram_news
+EMAIL_ENV_FILE: /Users/tomadshead/telegramdaily/.email_env
+Activated conda env and changed directory to /Users/tomadshead/telegramdaily
+Running Telegram_LMStudio_Filter_Translate1.py ...
+Traceback (most recent call last):
+  File "/Users/tomadshead/telegramdaily/Telegram_LMStudio_Filter_Translate1.py", line 235, in <module>
+    asyncio.run(main())
+  File "/opt/anaconda3/envs/finance-env/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/finance-env/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/finance-env/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/Users/tomadshead/telegramdaily/Telegram_LMStudio_Filter_Translate1.py", line 222, in main
+    results = await fetch_and_filter_messages()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tomadshead/telegramdaily/Telegram_LMStudio_Filter_Translate1.py", line 187, in fetch_and_filter_messages
+    client = TelegramClient(SESSION_NAME, API_ID, API_HASH)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/finance-env/lib/python3.11/site-packages/telethon/client/telegrambaseclient.py", line 268, in __init__
+    raise ValueError(
+ValueError: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+⚠️ Filter script failed or returned non-zero
+Running Telegram_NewsSummary_toPDF.py ...
+🧹 Removed 0 duplicate messages (same URL or identical text).
+✅ PDF saved: 251112MacroAdvisory_News_Summary.pdf
+Sourcing .email_env ...
+Sending email ...
+✅ Emailed: /Users/tomadshead/telegramdaily/251112MacroAdvisory_News_Summary.pdf to tga@macro-advisory.com, ara@macro-advisory.com, oop@macro-advisory.com
+===== 2025-11-12 02:00:41  Finished run_daily_news.sh =====
