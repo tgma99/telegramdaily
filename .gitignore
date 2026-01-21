@@ -24,3 +24,10 @@ out_email_preview.html
 # LM Studio
 *.gguf
 models/
+
+# Local outputs / datasets (project-specific)
+data_medical/
+filtered_translated_macro.csv
+*.log
+config/secrets.json.bak*
+
