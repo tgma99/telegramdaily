@@ -31,3 +31,4 @@ filtered_translated_macro.csv
 *.log
 config/secrets.json.bak*
 
+config/*.session

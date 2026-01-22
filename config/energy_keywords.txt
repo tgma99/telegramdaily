@@ -1,0 +1,34 @@
+oil
+brent
+wti
+opec
+gas
+lng
+pipeline
+gazprom
+rosneft
+lukoil
+refinery
+diesel
+petrol
+fuel
+electricity
+power grid
+transmission
+substation
+renewables
+solar
+wind
+hydro
+nuclear
+uranium
+reactor
+coal
+carbon
+emissions
+carbon tax
+green hydrogen
+hydrogen
+battery
+storage
+ev

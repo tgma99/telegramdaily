@@ -1,0 +1,48 @@
+{
+  "channels": {
+    "@oil_capital": {
+      "last_id": 24369,
+      "updated_utc": "2026-01-21T20:43:02.074136+00:00"
+    },
+    "@energytodaygroup": {
+      "last_id": 0,
+      "updated_utc": "2026-01-21T20:43:02.264136+00:00"
+    },
+    "@kirillrodionov": {
+      "last_id": 0,
+      "updated_utc": "2026-01-21T20:43:02.451829+00:00"
+    },
+    "@Bigpowernews": {
+      "last_id": 20027,
+      "updated_utc": "2026-01-21T20:43:02.599321+00:00"
+    },
+    "@oilfly": {
+      "last_id": 0,
+      "updated_utc": "2026-01-21T20:43:02.833777+00:00"
+    },
+    "@Infotek_Russia": {
+      "last_id": 0,
+      "updated_utc": "2026-01-21T20:43:03.108168+00:00"
+    },
+    "@teckteck": {
+      "last_id": 0,
+      "updated_utc": "2026-01-21T20:43:03.366530+00:00"
+    },
+    "@Burovaia": {
+      "last_id": 15072,
+      "updated_utc": "2026-01-21T20:43:03.574101+00:00"
+    },
+    "@gazmyaso": {
+      "last_id": 0,
+      "updated_utc": "2026-01-21T20:43:03.747610+00:00"
+    },
+    "@OilGasGame": {
+      "last_id": 0,
+      "updated_utc": "2026-01-21T20:43:03.965706+00:00"
+    },
+    "@lngchannel": {
+      "last_id": 7550,
+      "updated_utc": "2026-01-21T20:43:04.201921+00:00"
+    }
+  }
+}
