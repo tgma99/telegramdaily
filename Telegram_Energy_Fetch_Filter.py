@@ -40,7 +40,7 @@ import json
 import os
 import re
 import sys
-from dataclasses import dataclass, asdict
+from dataclasses import dataclass, asdict, fields as dc_fields
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
@@ -215,6 +215,7 @@ class EnergyRow:
     llm_sector: str
     llm_confidence: float
     llm_reason: str
+    country: str = "unknown"
 
 
 # -----------------------------
@@ -374,10 +375,21 @@ async def fetch_energy(
 
                 if keep:
                     kept_here += 1
+
+                    # --- Country inference (only if you have an LLM client available) ---
+                    country = "unknown"
+                    if client is not None:
+                        try:
+                            obj = openai_classify_translate_and_summarise(client, model, text, msg_url(ch, int(msg.id)))
+                            country = normalize_country(obj.get("country", "unknown"))
+                        except Exception:
+                            country = "unknown"
+
                     kept.append(
                         EnergyRow(
                             datetime=msg.date.astimezone(timezone.utc).isoformat(),
                             channel=ch,
+                            country=country,  # <-- ADD THIS LINE
                             message_id=int(msg.id),
                             url=msg_url(ch, int(msg.id)),
                             text=text,
@@ -389,6 +401,7 @@ async def fetch_energy(
                             llm_reason=llm_reason,
                         )
                     )
+
 
                 # update per-channel last_id as we go (monotonic increasing with newest->oldest? not strictly)
                 # We'll set it at end using max seen id in this run.
@@ -421,15 +434,15 @@ async def fetch_energy(
 
 def write_csv(path: Path, rows: List[EnergyRow]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    fields = list(asdict(rows[0]).keys()) if rows else [
-        "datetime","channel","message_id","url","text","keep_reason","keyword_hit",
-        "llm_is_energy","llm_sector","llm_confidence","llm_reason"
-    ]
+
+    # Always derive fieldnames from the dataclass definition
+    fieldnames = [f.name for f in dc_fields(EnergyRow)]
+
     with open(path, "w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=fields)
-        w.writeheader()
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
         for r in rows:
-            w.writerow(asdict(r))
+            writer.writerow(asdict(r))
 
 
 # -----------------------------

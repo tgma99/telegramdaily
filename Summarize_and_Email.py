@@ -771,11 +771,14 @@ def main() -> None:
     parser.add_argument("--hours", type=int, default=24, help="Lookback window in hours (UTC).")
     parser.add_argument("--secrets", default=str(Path("config/secrets.json")), help="Path to secrets.json.")
     parser.add_argument("--model", default=None, help="OpenAI model name (overrides secrets.openai.model).")
-    parser.add_argument("--max_per_country", type=int, default=3, help="Max items per country.")
-    parser.add_argument("--include_unknown", action="store_true", help="Include UNKNOWN section.")
-    parser.add_argument("--subject_prefix", default="Daily Summary of Telegram News", help="Email subject prefix.")
+    parser.add_argument("--max_per_country", type=int, default=3, help="Max items per country (and Energy/Global blocks).")
+    parser.add_argument("--prefix", default="Telegram Daily", help="Email subject prefix")
+    parser.add_argument("--include_unknown", action="store_true", help="Include items with country=unknown (and Energy/Global blocks).")
     args = parser.parse_args()
 
+    # -----------------------------
+    # Resolve CSV path
+    # -----------------------------
     csv_path = args.csv or args.csv_positional
     if not csv_path:
         base = Path("data/filtered")
@@ -784,9 +787,14 @@ def main() -> None:
             raise FileNotFoundError("No CSV provided and no data/filtered/filtered_*.csv found.")
         csv_path = str(candidates[-1])
 
+    # -----------------------------
+    # Load secrets
+    # -----------------------------
     secrets = load_secrets(args.secrets)
 
-    # OpenAI optional
+    # -----------------------------
+    # OpenAI optional (only for summarise/translate + event dedupe)
+    # -----------------------------
     api_key = secrets.get("openai", {}).get("api_key")
     model = args.model or secrets.get("openai", {}).get("model") or "gpt-4o-mini"
     client = None
@@ -796,18 +804,47 @@ def main() -> None:
         except Exception:
             client = None
 
+    # -----------------------------
+    # Time window
+    # -----------------------------
     now_utc = datetime.now(timezone.utc)
     cutoff = now_utc - timedelta(hours=args.hours)
 
+    # -----------------------------
+    # Read + normalise
+    # -----------------------------
     df = pd.read_csv(csv_path)
     df = normalise_dataframe(df)
 
-    # Window + skip
+    # If the CSV has no country column (e.g., energy keyword-only feed), default to unknown
+    if "country" not in df.columns:
+        df["country"] = "unknown"
+    df["country"] = df["country"].fillna("unknown").astype(str).map(normalize_country)
+
+    # Ensure skip exists
+    if "skip" not in df.columns:
+        df["skip"] = False
+    df["skip"] = df["skip"].fillna(False).astype(bool)
+
+    # Ensure english/raw exist
+    if "english" not in df.columns:
+        df["english"] = ""
+    if "raw" not in df.columns:
+        # energy feeds often use "text"
+        df["raw"] = df["text"] if "text" in df.columns else ""
+
+    # Window + skip filter
     df = df[pd.notna(df["datetime"])].copy()
     df = df[df["datetime"] >= cutoff].copy()
     df = df[df["skip"] == False].copy()
 
+    # If not including unknown, drop them now
+    if not args.include_unknown:
+        df = df[df["country"] != "unknown"].copy()
+
+    # -----------------------------
     # Load precomputed keyword alerts (optional)
+    # -----------------------------
     alerts_path = secrets.get("alerts_csv")  # e.g. "data/alerts/alerts_latest.csv"
     df_kw = pd.DataFrame(columns=["datetime", "channel", "message_id", "url", "kw_terms", "snippet"])
 
@@ -820,17 +857,23 @@ def main() -> None:
         if "datetime" in df_kw.columns:
             df_kw["datetime"] = pd.to_datetime(df_kw["datetime"], errors="coerce", utc=True)
 
+    # -----------------------------
     # Build per-row headline/why and (if needed) country via OpenAI
+    # -----------------------------
     headlines: List[str] = []
     whys: List[str] = []
     countries: List[str] = []
 
     for _, r in df.iterrows():
         english = (r.get("english", "") or "").strip()
+
         raw = r.get("raw", None)
+        if raw is None or (isinstance(raw, float) and pd.isna(raw)):
+            raw = r.get("text", None)
         if raw is None or (isinstance(raw, float) and pd.isna(raw)):
             raw = r.get("original", "")
         raw = str(raw or "").strip()
+
         url = (r.get("url", "") or "").strip()
 
         text_for_processing = english if english else raw
@@ -853,9 +896,9 @@ def main() -> None:
             headline, why = fallback_summarise(text_for_processing)
             headline = extract_full_sentence(headline)
 
-        # final clean
         headline = strip_emojis(headline).strip()
         why = strip_emojis(why).strip()
+
         if country not in APPROVED_SET:
             country = "unknown"
 
@@ -867,44 +910,47 @@ def main() -> None:
     df["headline"] = headlines
     df["why"] = whys
 
+    # -----------------------------
     # Subject date: prefer filename date so it matches the CSV
+    # (supports filtered_YYYY-MM-DD.csv and filtered_energy_YYYY-MM-DD.csv)
+    # -----------------------------
     csv_date = extract_csv_date_from_filename(csv_path)
-    subject_line = build_subject(args.subject_prefix, csv_date, now_utc)
+    if csv_date is None:
+        m = re.search(r"(?:filtered_energy)_(\d{4}-\d{2}-\d{2})\.csv$", os.path.basename(csv_path))
+        csv_date = m.group(1) if m else None
 
-    # ------------------------------------------------------------------
-    # Render HTML (header first, footer last; Source CSV moved to footer)
-    # NOTE: This expects:
-    #   - render_header(subject_line: str)  [NO source_csv param]
-    #   - render_footer(source_csv: str)
-    # ------------------------------------------------------------------
+    subject_line = build_subject(args.prefix, csv_date, now_utc)
+
+    # -----------------------------
+    # Render HTML
+    # -----------------------------
     chunks: List[str] = []
-
-    # Header (no Source CSV shown here)
     chunks.append(render_header(subject_line))
 
-    # Keyword alerts near the top
-    chunks.append(render_keyword_alerts(df_kw))
+    # Keyword alerts: skip for Energy emails
+    if not args.prefix.lower().startswith("energy"):
+        chunks.append(render_keyword_alerts(df_kw))
 
     # Country blocks
     for c in APPROVED_COUNTRIES:
-        # Keep your existing logic (even if items is unused elsewhere)
-        items = df[df["country"] == c].sort_values("datetime", ascending=False).head(6)
-        items = llm_dedupe_items(client, model, items)
-
         country_items = df[df["country"] == c].sort_values("datetime", ascending=False).head(10)
         country_items = llm_event_dedupe_keep_rows(client, model, country_items, max_keep=args.max_per_country)
-
         chunks.append(render_country_block(c, country_items, args.max_per_country))
 
-    # Optional UNKNOWN section
+    # Energy/global fallback: include unknown
     if args.include_unknown:
-        chunks.append(render_country_block("UNKNOWN", df[df["country"] == "unknown"], args.max_per_country))
+        unknown_items = df[df["country"] == "unknown"].sort_values("datetime", ascending=False).head(25)
+        unknown_items = llm_event_dedupe_keep_rows(client, model, unknown_items, max_keep=args.max_per_country)
+        if not unknown_items.empty:
+            chunks.append(render_country_block("Energy / Global", unknown_items, args.max_per_country))
 
-    # Footer (Source CSV moved here)
     chunks.append(render_footer(csv_path))
 
     html = HTML_WRAPPER_START.format(style=HTML_STYLE) + "\n".join(chunks) + HTML_WRAPPER_END
 
+    # -----------------------------
+    # Send / preview
+    # -----------------------------
     mail_mode = str(secrets.get("mail_mode", "preview")).lower().strip()
     if mail_mode == "smtp":
         send_email_smtp(secrets, subject=subject_line, html_body=html)

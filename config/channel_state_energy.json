@@ -1,48 +1,68 @@
 {
   "channels": {
     "@oil_capital": {
-      "last_id": 24369,
-      "updated_utc": "2026-01-21T20:43:02.074136+00:00"
+      "last_id": 24572,
+      "updated_utc": "2026-02-10T07:15:07.107049+00:00"
     },
     "@energytodaygroup": {
-      "last_id": 0,
-      "updated_utc": "2026-01-21T20:43:02.264136+00:00"
+      "last_id": 28744,
+      "updated_utc": "2026-02-10T07:15:07.336742+00:00"
     },
     "@kirillrodionov": {
-      "last_id": 0,
-      "updated_utc": "2026-01-21T20:43:02.451829+00:00"
+      "last_id": 2397,
+      "updated_utc": "2026-02-10T07:15:07.614570+00:00"
     },
     "@Bigpowernews": {
-      "last_id": 20027,
-      "updated_utc": "2026-01-21T20:43:02.599321+00:00"
+      "last_id": 20156,
+      "updated_utc": "2026-02-10T07:15:07.814562+00:00"
     },
     "@oilfly": {
-      "last_id": 0,
-      "updated_utc": "2026-01-21T20:43:02.833777+00:00"
+      "last_id": 27981,
+      "updated_utc": "2026-02-10T07:15:08.077667+00:00"
     },
     "@Infotek_Russia": {
-      "last_id": 0,
-      "updated_utc": "2026-01-21T20:43:03.108168+00:00"
+      "last_id": 9372,
+      "updated_utc": "2026-02-10T07:15:08.495668+00:00"
     },
     "@teckteck": {
-      "last_id": 0,
-      "updated_utc": "2026-01-21T20:43:03.366530+00:00"
+      "last_id": 3715,
+      "updated_utc": "2026-02-10T07:15:08.724842+00:00"
     },
     "@Burovaia": {
-      "last_id": 15072,
-      "updated_utc": "2026-01-21T20:43:03.574101+00:00"
+      "last_id": 15103,
+      "updated_utc": "2026-02-10T07:15:09.030757+00:00"
     },
     "@gazmyaso": {
-      "last_id": 0,
-      "updated_utc": "2026-01-21T20:43:03.747610+00:00"
+      "last_id": 7929,
+      "updated_utc": "2026-02-10T07:15:09.230813+00:00"
     },
     "@OilGasGame": {
-      "last_id": 0,
-      "updated_utc": "2026-01-21T20:43:03.965706+00:00"
+      "last_id": 3714,
+      "updated_utc": "2026-02-10T07:15:09.512886+00:00"
     },
     "@lngchannel": {
-      "last_id": 7550,
-      "updated_utc": "2026-01-21T20:43:04.201921+00:00"
+      "last_id": 7594,
+      "updated_utc": "2026-02-10T07:15:09.801542+00:00"
+    },
+    "@gaziz1984": {
+      "last_id": 5085,
+      "updated_utc": "2026-02-10T07:15:09.950484+00:00"
+    },
+    "@kursivm": {
+      "last_id": 41146,
+      "updated_utc": "2026-02-10T07:15:12.448182+00:00"
+    },
+    "@rbc_news": {
+      "last_id": 142311,
+      "updated_utc": "2026-02-10T07:15:18.877794+00:00"
+    },
+    "@tass_agency": {
+      "last_id": 360521,
+      "updated_utc": "2026-02-10T07:15:30.063811+00:00"
+    },
+    "@turanagency": {
+      "last_id": 0,
+      "updated_utc": "2026-02-10T07:15:30.402157+00:00"
     }
   }
 }
